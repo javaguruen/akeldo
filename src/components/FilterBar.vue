@@ -1,46 +1,47 @@
 <script setup>
 defineProps({
-  filterKeys: { type: Array, required: true },
-  filterOptions: { type: Object, required: true },
-  activeFilters: { type: Object, required: true },
+  roleOptions:     { type: Array, required: true },
+  innsenderOptions:{ type: Array, required: true },
+  roleFilter:      { type: String, required: true },
+  innsenderFilter: { type: String, required: true },
 })
 
-const emit = defineEmits(['search', 'filter'])
-
-function onInput(e) {
-  emit('search', e.target.value)
-}
-
-function onSelect(key, e) {
-  emit('filter', { key, value: e.target.value })
-}
-
-function label(key) {
-  return key.charAt(0).toUpperCase() + key.slice(1)
-}
+const emit = defineEmits(['search', 'role', 'innsender'])
 </script>
 
 <template>
   <div class="filter-bar">
     <div class="filter-group">
-      <label for="search">Search</label>
+      <label for="search">Søk</label>
       <input
         id="search"
         type="text"
-        placeholder="Search by name…"
-        @input="onInput"
+        placeholder="Søk etter navn…"
+        @input="emit('search', $event.target.value)"
       />
     </div>
 
-    <div v-for="key in filterKeys" :key="key" class="filter-group">
-      <label :for="`filter-${key}`">{{ label(key) }}</label>
+    <div class="filter-group">
+      <label for="filter-rolle">Rolle</label>
       <select
-        :id="`filter-${key}`"
-        :value="activeFilters[key]"
-        @change="onSelect(key, $event)"
+        id="filter-rolle"
+        :value="roleFilter"
+        @change="emit('role', $event.target.value)"
       >
-        <option value="">All</option>
-        <option v-for="opt in filterOptions[key]" :key="opt" :value="opt">{{ opt }}</option>
+        <option value="">Alle</option>
+        <option v-for="r in roleOptions" :key="r" :value="r">{{ r }}</option>
+      </select>
+    </div>
+
+    <div class="filter-group">
+      <label for="filter-innsender">Innsender</label>
+      <select
+        id="filter-innsender"
+        :value="innsenderFilter"
+        @change="emit('innsender', $event.target.value)"
+      >
+        <option value="">Alle</option>
+        <option v-for="i in innsenderOptions" :key="i" :value="i">{{ i }}</option>
       </select>
     </div>
   </div>
