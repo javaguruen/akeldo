@@ -17,7 +17,12 @@ jobs:
 
       - name: Download JSON
         run: |
-          curl -fsSL "https://akeldo.grunnbok.no/akeldo/aktoer" -o public/organizations.json
+          curl -fsSL "https://akeldo.grunnbok.no/akeldo/aktoer" -o /tmp/organizations_new.json
+          if [ ! -s /tmp/organizations_new.json ]; then
+            echo "Downloaded file is empty or missing — aborting to preserve existing data"
+            exit 1
+          fi
+          mv /tmp/organizations_new.json public/organizations.json
 
       - name: Commit if changed
         run: |

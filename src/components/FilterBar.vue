@@ -1,12 +1,14 @@
 <script setup>
 defineProps({
-  roleOptions:     { type: Array, required: true },
-  innsenderOptions:{ type: Array, required: true },
-  roleFilter:      { type: String, required: true },
-  innsenderFilter: { type: String, required: true },
+  roleOptions:      { type: Array,   required: true },
+  innsenderOptions: { type: Array,   required: true },
+  roleFilter:       { type: String,  required: true },
+  innsenderFilter:  { type: String,  required: true },
+  searchText:       { type: String,  required: true },
+  hasActiveFilters: { type: Boolean, required: true },
 })
 
-const emit = defineEmits(['search', 'role', 'innsender'])
+const emit = defineEmits(['search', 'role', 'innsender', 'clear'])
 </script>
 
 <template>
@@ -16,7 +18,8 @@ const emit = defineEmits(['search', 'role', 'innsender'])
       <input
         id="search"
         type="text"
-        placeholder="Søk etter navn…"
+        placeholder="Søk etter navn eller org.nr…"
+        :value="searchText"
         @input="emit('search', $event.target.value)"
       />
     </div>
@@ -44,6 +47,15 @@ const emit = defineEmits(['search', 'role', 'innsender'])
         <option v-for="i in innsenderOptions" :key="i" :value="i">{{ i }}</option>
       </select>
     </div>
+
+    <div class="filter-group filter-group--clear">
+      <label>&nbsp;</label>
+      <button
+        class="clear-btn"
+        :disabled="!hasActiveFilters"
+        @click="emit('clear')"
+      >Tøm filtre</button>
+    </div>
   </div>
 </template>
 
@@ -56,6 +68,7 @@ const emit = defineEmits(['search', 'role', 'innsender'])
   border: 1px solid #ddd;
   border-radius: 8px;
   padding: 1rem;
+  align-items: flex-end;
 }
 
 .filter-group {
@@ -64,6 +77,11 @@ const emit = defineEmits(['search', 'role', 'innsender'])
   gap: 0.25rem;
   flex: 1;
   min-width: 160px;
+}
+
+.filter-group--clear {
+  flex: 0 0 auto;
+  min-width: unset;
 }
 
 label { font-size: 0.75rem; font-weight: 600; text-transform: uppercase; color: #555; }
@@ -79,5 +97,26 @@ input, select {
 input:focus, select:focus {
   outline: 2px solid #4a90d9;
   outline-offset: 1px;
+}
+
+.clear-btn {
+  padding: 0.4rem 0.9rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  background: #fff;
+  color: #444;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.clear-btn:hover:not(:disabled) {
+  background: #f0f0f0;
+  border-color: #aaa;
+}
+
+.clear-btn:disabled {
+  opacity: 0.4;
+  cursor: default;
 }
 </style>

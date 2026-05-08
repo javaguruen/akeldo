@@ -23,12 +23,53 @@ onMounted(async () => {
   }
 })
 
+const DOMAIN_MAP = {
+  'ambita.com':    'Ambita',
+  'ambita.no':     'Ambita',
+  'alice-bob.no':  'Alice & Bob',
+  'tietoevry.com': 'Tietoevry',
+  'evry.com':      'Tietoevry',
+  'evry.cos':      'Tietoevry',
+  'broker.no':     'Broker',
+  'brokre.no':     'Broker',
+  'visma.com':     'Broker',
+  'nordea.no':     'Nordea',
+  'propware.no':   'Propware',
+}
+
+const NAME_PATTERNS = [
+  [/ambita/i,     'Ambita'],
+  [/alice.*bob/i, 'Alice & Bob'],
+  [/tieto|evry/i, 'Tietoevry'],
+  [/broker/i,     'Broker'],
+  [/nordea/i,     'Nordea'],
+  [/propware/i,   'Propware'],
+]
+
+function parseInnsender(raw) {
+  if (!raw) return null
+  const trimmed = raw.trim()
+  const emailMatch = trimmed.match(/[\w.+'-]+@([\w.-]+\.[a-z]{2,})/i)
+  if (emailMatch) {
+    const canonical = DOMAIN_MAP[emailMatch[1].toLowerCase()]
+    if (canonical) return canonical
+  }
+  for (const [pattern, canonical] of NAME_PATTERNS) {
+    if (pattern.test(trimmed)) return canonical
+  }
+  return 'Ukjent'
+}
+
 const roleOptions = computed(() =>
   [...new Set(orgs.value.map(o => o.roller?.[0]?.rolle).filter(Boolean))].sort()
 )
 
 const innsenderOptions = computed(() =>
-  [...new Set(orgs.value.map(o => o.innsender?.split(' - ')[0]).filter(Boolean))].sort()
+  [...new Set(orgs.value.map(o => parseInnsender(o.innsender)).filter(Boolean))].sort()
+)
+
+const hasActiveFilters = computed(() =>
+  searchText.value !== '' || roleFilter.value !== '' || innsenderFilter.value !== ''
 )
 
 const filteredOrgs = computed(() => {
@@ -36,10 +77,16 @@ const filteredOrgs = computed(() => {
   return orgs.value.filter(org => {
     if (search && !org.organisasjonsnavn.toLowerCase().includes(search) && !org.organisasjonsnummer.includes(search)) return false
     if (roleFilter.value && org.roller?.[0]?.rolle !== roleFilter.value) return false
-    if (innsenderFilter.value && org.innsender?.split(' - ')[0] !== innsenderFilter.value) return false
+    if (innsenderFilter.value && parseInnsender(org.innsender) !== innsenderFilter.value) return false
     return true
   })
 })
+
+function clearFilters() {
+  searchText.value = ''
+  roleFilter.value = ''
+  innsenderFilter.value = ''
+}
 </script>
 
 <template>
@@ -53,9 +100,12 @@ const filteredOrgs = computed(() => {
       :innsender-options="innsenderOptions"
       :role-filter="roleFilter"
       :innsender-filter="innsenderFilter"
+      :search-text="searchText"
+      :has-active-filters="hasActiveFilters"
       @search="searchText = $event"
       @role="roleFilter = $event"
       @innsender="innsenderFilter = $event"
+      @clear="clearFilters"
     />
 
     <p v-if="!loading && !error" class="result-count">
