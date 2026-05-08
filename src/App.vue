@@ -7,6 +7,7 @@ import { parseInnsender } from './utils/innsender.js'
 const orgs = ref([])
 const loading = ref(true)
 const error = ref(null)
+const lastUpdated = ref(null)
 
 const searchText = ref('')
 const roleFilter = ref('')
@@ -16,7 +17,9 @@ onMounted(async () => {
   try {
     const res = await fetch('/akeldo/organizations.json')
     if (!res.ok) throw new Error(`HTTP ${res.status}`)
-    orgs.value = await res.json()
+    const data = await res.json()
+    orgs.value = data.akeldo
+    lastUpdated.value = data.lastUpdated
   } catch (e) {
     error.value = e.message
   } finally {
@@ -24,6 +27,14 @@ onMounted(async () => {
   }
 })
 
+
+const lastUpdatedFormatted = computed(() => {
+  if (!lastUpdated.value) return null
+  return new Date(lastUpdated.value).toLocaleString('nb-NO', {
+    day: '2-digit', month: '2-digit', year: 'numeric',
+    hour: '2-digit', minute: '2-digit',
+  })
+})
 
 const roleOptions = computed(() =>
   [...new Set(orgs.value.map(o => o.roller?.[0]?.rolle).filter(Boolean))].sort()
@@ -58,6 +69,7 @@ function clearFilters() {
   <div class="app">
     <header class="app-header">
       <h1>Aktører</h1>
+      <p v-if="lastUpdatedFormatted" class="last-updated">Sist oppdatert: {{ lastUpdatedFormatted }}</p>
     </header>
 
     <FilterBar
@@ -98,6 +110,7 @@ body { font-family: system-ui, sans-serif; background: #f5f5f5; color: #222; }
 
 .app-header { margin-bottom: 1.5rem; }
 .app-header h1 { font-size: 1.75rem; font-weight: 700; }
+.last-updated { font-size: 0.8rem; color: #888; margin-top: 0.25rem; }
 
 .result-count {
   margin-top: 0.75rem;
