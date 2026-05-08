@@ -34,7 +34,7 @@ const innsenderOptions = computed(() =>
 const filteredOrgs = computed(() => {
   const search = searchText.value.trim().toLowerCase()
   return orgs.value.filter(org => {
-    if (search && !org.organisasjonsnavn.toLowerCase().includes(search)) return false
+    if (search && !org.organisasjonsnavn.toLowerCase().includes(search) && !org.organisasjonsnummer.includes(search)) return false
     if (roleFilter.value && org.roller?.[0]?.rolle !== roleFilter.value) return false
     if (innsenderFilter.value && org.innsender?.split(' - ')[0] !== innsenderFilter.value) return false
     return true
