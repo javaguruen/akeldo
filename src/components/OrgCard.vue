@@ -1,10 +1,15 @@
 <script setup>
-defineProps({
+import { parseInnsender } from '../utils/innsender.js'
+
+const props = defineProps({
   org: { type: Object, required: true },
 })
 
-function innsenderNavn(innsender) {
-  return innsender?.split(' - ')[0] ?? innsender
+function displayInnsender(raw) {
+  if (!raw) return null
+  const normalized = parseInnsender(raw)
+  if (normalized && normalized !== 'Ukjent') return normalized
+  return raw.trim().split(/\s*[-–,;(]/)[0].trim() || raw.trim()
 }
 </script>
 
@@ -22,7 +27,7 @@ function innsenderNavn(innsender) {
     <p class="org-card__meta">
       <span class="org-card__orgnr">{{ org.organisasjonsnummer }}</span>
       <span v-if="org.innsender" class="org-card__sep">·</span>
-      <span v-if="org.innsender" class="org-card__innsender">{{ innsenderNavn(org.innsender) }}</span>
+      <span v-if="org.innsender" class="org-card__innsender">{{ displayInnsender(org.innsender) }}</span>
     </p>
 
     <div v-if="org.mottaksliste?.length" class="org-card__tags-section">
