@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-13T12:18:11+02:00",
+  "lastUpdated": "2026-05-14T07:48:37+02:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -7662,6 +7662,45 @@
         }
       ],
       "sistEndret": "12.03.2026 15:03:07"
+    },
+    {
+      "organisasjonsnavn": "ADVOKAT INGAR NIKOLAISEN KUOLJOK",
+      "innsender": "Propware AS - e-post: post@propware.no",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        }
+      ],
+      "organisasjonsnummer": "985304505",
+      "sendeliste": [
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "GjennomfoertEtinglysing"
+        }
+      ],
+      "sistEndret": "13.05.2026 15:02:21"
     },
     {
       "organisasjonsnavn": "NYLANDER & PARTNERS AS",
