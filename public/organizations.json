@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-22T08:07:23+02:00",
+  "lastUpdated": "2026-05-23T07:39:51+02:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -9615,16 +9615,13 @@
     },
     {
       "organisasjonsnavn": "Sem & Johnsen Oppgjør AS",
-      "innsender": "Ambita AS - support@ambita.com",
+      "innsender": "Alice & Bob AS - post@alice-bob.no",
       "roller": [
         {
           "rolle": "Megler"
         }
       ],
       "mottaksliste": [
-        {
-          "meldingstype": "IntensjonFraBank"
-        },
         {
           "meldingstype": "Intensjonsendring"
         },
@@ -9633,6 +9630,9 @@
         },
         {
           "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
         }
       ],
       "organisasjonsnummer": "999638996",
@@ -9647,7 +9647,7 @@
           "meldingstype": "Intensjonsendring"
         }
       ],
-      "sistEndret": "13.03.2026 08:24:23"
+      "sistEndret": "22.05.2026 10:00:18"
     },
     {
       "organisasjonsnavn": "Halden Boligsenter AS",
@@ -13161,7 +13161,7 @@
     },
     {
       "organisasjonsnavn": "SEM & JOHNSEN BOLIGER AS",
-      "innsender": "Ambita AS - support@ambita.com",
+      "innsender": "Alice & Bob AS - post@alice-bob.no",
       "roller": [
         {
           "rolle": "Megler"
@@ -13193,7 +13193,7 @@
           "meldingstype": "Intensjonsendring"
         }
       ],
-      "sistEndret": "13.03.2026 08:23:57"
+      "sistEndret": "22.05.2026 10:00:32"
     },
     {
       "organisasjonsnavn": "ADVOKATFIRMAET DAHLE AS",
