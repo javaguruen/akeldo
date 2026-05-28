@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-27T08:21:24+02:00",
+  "lastUpdated": "2026-05-28T08:12:59+02:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -7737,6 +7737,51 @@
         }
       ],
       "sistEndret": "13.03.2026 08:15:48"
+    },
+    {
+      "organisasjonsnavn": "TROMS EIENDOMSMEGLING AS",
+      "innsender": "support@broker.no",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        }
+      ],
+      "organisasjonsnummer": "934089812",
+      "sendeliste": [
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "AvbruttSamhandling"
+        },
+        {
+          "meldingstype": "GjennomfoertEtinglysing"
+        },
+        {
+          "meldingstype": "OppnaaddPrioritetOK"
+        }
+      ],
+      "sistEndret": "27.05.2026 08:31:37"
     },
     {
       "organisasjonsnavn": "WEBMEGLING",
