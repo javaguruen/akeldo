@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T08:56:49+02:00",
+  "lastUpdated": "2026-06-02T08:42:14+02:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -15314,40 +15314,7 @@
       "sistEndret": "08.11.2022 16:30:25"
     },
     {
-      "organisasjonsnavn": "SPAREBANKEN DIN",
-      "innsender": "Ambita AS (support@ambita.com)",
-      "roller": [
-        {
-          "rolle": "Bank"
-        }
-      ],
-      "mottaksliste": [
-        {
-          "meldingstype": "SignedMortgageDeedProcessed"
-        },
-        {
-          "meldingstype": "IntensjonssvarFraMegler"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        }
-      ],
-      "organisasjonsnummer": "937891512",
-      "sendeliste": [
-        {
-          "meldingstype": "SignedMortgageDeed"
-        },
-        {
-          "meldingstype": "IntensjonFraBank"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        }
-      ],
-      "sistEndret": "08.11.2022 16:31:31"
-    },
-    {
-      "organisasjonsnavn": "DRANGEDAL SPAREBANK",
+      "organisasjonsnavn": "TELEMARK SPAREBANK",
       "innsender": "Ambita AS (support@ambita.com)",
       "roller": [
         {
@@ -15377,7 +15344,7 @@
           "meldingstype": "SignedMortgageDeed"
         }
       ],
-      "sistEndret": "08.11.2022 16:36:27"
+      "sistEndret": "02.06.2026 07:53:11"
     },
     {
       "organisasjonsnavn": "ØRLAND SPAREBANK",
@@ -18000,6 +17967,42 @@
         }
       ],
       "sistEndret": "04.11.2025 13:13:58"
+    },
+    {
+      "organisasjonsnavn": "AKTIV SUNNHORDLAND AS",
+      "innsender": "Ambita AS (support@ambita.com)",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
+        }
+      ],
+      "organisasjonsnummer": "933683672",
+      "sendeliste": [
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        }
+      ],
+      "sistEndret": "01.06.2026 10:09:55"
     },
     {
       "organisasjonsnavn": "HOLMSKAU & PARTNERS AS",
@@ -21489,6 +21492,51 @@
         }
       ],
       "sistEndret": "04.11.2025 13:39:50"
+    },
+    {
+      "organisasjonsnavn": "COMPLIANCE OPPGJØR AS",
+      "innsender": "Broker AS - support@broker.no",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        }
+      ],
+      "organisasjonsnummer": "937301316",
+      "sendeliste": [
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "AvbruttSamhandling"
+        },
+        {
+          "meldingstype": "GjennomfoertEtinglysing"
+        },
+        {
+          "meldingstype": "OppnaaddPrioritetOK"
+        }
+      ],
+      "sistEndret": "02.06.2026 08:14:21"
     },
     {
       "organisasjonsnavn": "OBOS BLOCK WATNE AS",
