@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T08:42:14+02:00",
+  "lastUpdated": "2026-06-03T08:53:15+02:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -6845,42 +6845,6 @@
       "sistEndret": "12.03.2026 14:35:14"
     },
     {
-      "organisasjonsnavn": "ADVOKAT KJELL-ARNE MATHISEN AS",
-      "innsender": "Ambita (support@Ambita.com)",
-      "roller": [
-        {
-          "rolle": "Megler"
-        }
-      ],
-      "mottaksliste": [
-        {
-          "meldingstype": "SignedMortgageDeed"
-        },
-        {
-          "meldingstype": "IntensjonFraBank"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeedPdf"
-        }
-      ],
-      "organisasjonsnummer": "916650051",
-      "sendeliste": [
-        {
-          "meldingstype": "SignedMortgageDeedProcessed"
-        },
-        {
-          "meldingstype": "IntensjonssvarFraMegler"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        }
-      ],
-      "sistEndret": "12.03.2026 14:33:39"
-    },
-    {
       "organisasjonsnavn": "SPAREBANK 1 HELGELAND",
       "innsender": "Tieto EVRY - thomas.evensen@tietoevry.com",
       "roller": [
@@ -13367,42 +13331,6 @@
       "sistEndret": "04.11.2025 13:06:04"
     },
     {
-      "organisasjonsnavn": "ADVOKATFIRMAET WIERSHOLM AS",
-      "innsender": "Ambita AS (support@ambita.com)",
-      "roller": [
-        {
-          "rolle": "Megler"
-        }
-      ],
-      "mottaksliste": [
-        {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
-        },
-        {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "IntensjonFraBank"
-        }
-      ],
-      "organisasjonsnummer": "981371593",
-      "sendeliste": [
-        {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
-        },
-        {
-          "meldingstype": "IntensjonssvarFraMegler"
-        }
-      ],
-      "sistEndret": "12.03.2026 14:44:28"
-    },
-    {
       "organisasjonsnavn": "ADVOKATFIRMAET TEISBEKK AS",
       "innsender": "Ambita AS - support@ambita.com",
       "roller": [
@@ -14016,42 +13944,6 @@
         }
       ],
       "sistEndret": "12.03.2026 14:59:08"
-    },
-    {
-      "organisasjonsnavn": "ADVOKATFIRMAET KVASSTIND AS",
-      "innsender": "Ambita AS (support@ambita.com)",
-      "roller": [
-        {
-          "rolle": "Megler"
-        }
-      ],
-      "mottaksliste": [
-        {
-          "meldingstype": "SignedMortgageDeed"
-        },
-        {
-          "meldingstype": "IntensjonFraBank"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeedPdf"
-        }
-      ],
-      "organisasjonsnummer": "997318013",
-      "sendeliste": [
-        {
-          "meldingstype": "SignedMortgageDeedProcessed"
-        },
-        {
-          "meldingstype": "IntensjonssvarFraMegler"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        }
-      ],
-      "sistEndret": "12.03.2026 14:41:46"
     },
     {
       "organisasjonsnavn": "LØRENSKOGMEGLEREN AS",
@@ -16418,42 +16310,6 @@
       "sistEndret": "13.03.2026 08:32:06"
     },
     {
-      "organisasjonsnavn": "GARMANN, MITCHELL & CO ADVOKATFIRMA AS",
-      "innsender": "Ambita AS - support@ambita.com",
-      "roller": [
-        {
-          "rolle": "Megler"
-        }
-      ],
-      "mottaksliste": [
-        {
-          "meldingstype": "SignedMortgageDeed"
-        },
-        {
-          "meldingstype": "IntensjonFraBank"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeedPdf"
-        }
-      ],
-      "organisasjonsnummer": "929407598",
-      "sendeliste": [
-        {
-          "meldingstype": "IntensjonssvarFraMegler"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeedProcessed"
-        }
-      ],
-      "sistEndret": "12.03.2026 15:14:49"
-    },
-    {
       "organisasjonsnavn": "ADVOKATFIRMAET BAADSTØ AS",
       "innsender": "Ambita AS - support@ambita.com",
       "roller": [
@@ -18785,42 +18641,6 @@
       "sistEndret": "12.03.2026 15:14:04"
     },
     {
-      "organisasjonsnavn": "DIALOGADVOKATENE PAUL RYNNING AS",
-      "innsender": "Ambita AS - support@ambita.com",
-      "roller": [
-        {
-          "rolle": "Megler"
-        }
-      ],
-      "mottaksliste": [
-        {
-          "meldingstype": "IntensjonFraBank"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
-        },
-        {
-          "meldingstype": "SignedMortgageDeedPdf"
-        }
-      ],
-      "organisasjonsnummer": "968219804",
-      "sendeliste": [
-        {
-          "meldingstype": "IntensjonssvarFraMegler"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeedProcessed"
-        }
-      ],
-      "sistEndret": "12.03.2026 15:02:08"
-    },
-    {
       "organisasjonsnavn": "DE PRESNO & PARTNERE AS",
       "innsender": "Ambita AS - support@ambita.com",
       "roller": [
@@ -20115,6 +19935,9 @@
         },
         {
           "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "993828645",
@@ -20141,43 +19964,7 @@
           "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "07.05.2026 08:00:06"
-    },
-    {
-      "organisasjonsnavn": "ELDEN ADVOKATFIRMA AS",
-      "innsender": "Ambita AS - support@ambita.com",
-      "roller": [
-        {
-          "rolle": "Megler"
-        }
-      ],
-      "mottaksliste": [
-        {
-          "meldingstype": "SignedMortgageDeed"
-        },
-        {
-          "meldingstype": "IntensjonFraBank"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeedPdf"
-        }
-      ],
-      "organisasjonsnummer": "925880426",
-      "sendeliste": [
-        {
-          "meldingstype": "SignedMortgageDeedProcessed"
-        },
-        {
-          "meldingstype": "IntensjonssvarFraMegler"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        }
-      ],
-      "sistEndret": "12.03.2026 15:08:34"
+      "sistEndret": "02.06.2026 10:03:43"
     },
     {
       "organisasjonsnavn": "ADVOKATFIRMAET BRO AS",
@@ -20948,42 +20735,6 @@
       "sistEndret": "16.12.2025 08:19:01"
     },
     {
-      "organisasjonsnavn": "ARNTZEN DE BESCHE ADVOKATFIRMA AS",
-      "innsender": "Ambita AS - support@ambita.com",
-      "roller": [
-        {
-          "rolle": "Megler"
-        }
-      ],
-      "mottaksliste": [
-        {
-          "meldingstype": "IntensjonFraBank"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
-        },
-        {
-          "meldingstype": "SignedMortgageDeedPdf"
-        }
-      ],
-      "organisasjonsnummer": "982409705",
-      "sendeliste": [
-        {
-          "meldingstype": "IntensjonssvarFraMegler"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeedProcessed"
-        }
-      ],
-      "sistEndret": "12.03.2026 14:52:55"
-    },
-    {
       "organisasjonsnavn": "SKI EIENDOMSMEGLING AS",
       "innsender": "Broker AS - support@broker.no",
       "roller": [
@@ -21732,42 +21483,6 @@
         }
       ],
       "sistEndret": "12.03.2026 14:56:17"
-    },
-    {
-      "organisasjonsnavn": "NORDIA LAW ADVOKATFIRMA AS",
-      "innsender": "Ambita AS (support@ambita.com)",
-      "roller": [
-        {
-          "rolle": "Megler"
-        }
-      ],
-      "mottaksliste": [
-        {
-          "meldingstype": "SignedMortgageDeed"
-        },
-        {
-          "meldingstype": "IntensjonFraBank"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeedPdf"
-        }
-      ],
-      "organisasjonsnummer": "919371684",
-      "sendeliste": [
-        {
-          "meldingstype": "IntensjonssvarFraMegler"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeedProcessed"
-        }
-      ],
-      "sistEndret": "13.03.2026 08:13:14"
     },
     {
       "organisasjonsnavn": "BANK NORWEGIAN, EN FILIAL AV NOBA BANK GROUP AB (PUBL) NUF",
@@ -23033,6 +22748,42 @@
       "sistEndret": "24.04.2026 15:44:05"
     },
     {
+      "organisasjonsnavn": "EIENDOMSSENTERET AS",
+      "innsender": "Ambita AS - support@ambita.com",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
+        }
+      ],
+      "organisasjonsnummer": "977502047",
+      "sendeliste": [
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        }
+      ],
+      "sistEndret": "02.06.2026 14:18:39"
+    },
+    {
       "organisasjonsnavn": "ADNOR ADVOKAT AS",
       "innsender": "Propware AS - post@propware.no",
       "roller": [
@@ -23391,42 +23142,6 @@
         }
       ],
       "sistEndret": "13.03.2026 08:28:30"
-    },
-    {
-      "organisasjonsnavn": "VIRTUS ADVOKAT AS",
-      "innsender": "support@ambita.no",
-      "roller": [
-        {
-          "rolle": "Megler"
-        }
-      ],
-      "mottaksliste": [
-        {
-          "meldingstype": "SignedMortgageDeed"
-        },
-        {
-          "meldingstype": "IntensjonFraBank"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeedPdf"
-        }
-      ],
-      "organisasjonsnummer": "912002314",
-      "sendeliste": [
-        {
-          "meldingstype": "SignedMortgageDeedProcessed"
-        },
-        {
-          "meldingstype": "IntensjonssvarFraMegler"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        }
-      ],
-      "sistEndret": "13.03.2026 08:34:28"
     },
     {
       "organisasjonsnavn": "MEGLEREN FOR NYE BOLIGER AS",
