@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T08:23:18+02:00",
+  "lastUpdated": "2026-06-06T07:54:19+02:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -8474,6 +8474,51 @@
       "sistEndret": "04.11.2025 12:45:51"
     },
     {
+      "organisasjonsnavn": "HAGEBY EIENDOMSMEGLING AS",
+      "innsender": "Broker AS - support@broker.no",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        }
+      ],
+      "organisasjonsnummer": "936721788",
+      "sendeliste": [
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "AvbruttSamhandling"
+        },
+        {
+          "meldingstype": "GjennomfoertEtinglysing"
+        },
+        {
+          "meldingstype": "OppnaaddPrioritetOK"
+        }
+      ],
+      "sistEndret": "05.06.2026 09:59:43"
+    },
+    {
       "organisasjonsnavn": "Bankenes Boligmegler AS",
       "innsender": "Ambita AS – support@ambita.com",
       "roller": [
@@ -8604,6 +8649,51 @@
         }
       ],
       "sistEndret": "04.11.2025 13:01:21"
+    },
+    {
+      "organisasjonsnavn": "DRIV EIENDOMSMEGLING AS",
+      "innsender": "Broker AS - support@broker.no",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "IntensjonFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        }
+      ],
+      "organisasjonsnummer": "936324029",
+      "sendeliste": [
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "AvbruttSamhandling"
+        },
+        {
+          "meldingstype": "GjennomfoertEtinglysing"
+        },
+        {
+          "meldingstype": "OppnaaddPrioritetOK"
+        }
+      ],
+      "sistEndret": "05.06.2026 10:02:00"
     },
     {
       "organisasjonsnavn": "Orkla Eiendomsmegling AS",
