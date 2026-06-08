@@ -12,6 +12,8 @@ const lastUpdated = ref(null)
 const searchText = ref('')
 const roleFilter = ref('')
 const innsenderFilter = ref('')
+const sendeFilter = ref('')
+const mottakFilter = ref('')
 
 onMounted(async () => {
   try {
@@ -44,8 +46,17 @@ const innsenderOptions = computed(() =>
   [...new Set(orgs.value.map(o => parseInnsender(o.innsender)).filter(Boolean))].sort()
 )
 
+const sendeOptions = computed(() =>
+  [...new Set(orgs.value.flatMap(o => o.sendeliste?.map(m => m.meldingstype) ?? []))].sort()
+)
+
+const mottakOptions = computed(() =>
+  [...new Set(orgs.value.flatMap(o => o.mottaksliste?.map(m => m.meldingstype) ?? []))].sort()
+)
+
 const hasActiveFilters = computed(() =>
-  searchText.value !== '' || roleFilter.value !== '' || innsenderFilter.value !== ''
+  searchText.value !== '' || roleFilter.value !== '' || innsenderFilter.value !== '' ||
+  sendeFilter.value !== '' || mottakFilter.value !== ''
 )
 
 const filteredOrgs = computed(() => {
@@ -54,6 +65,8 @@ const filteredOrgs = computed(() => {
     if (search && !org.organisasjonsnavn.toLowerCase().includes(search) && !org.organisasjonsnummer.includes(search)) return false
     if (roleFilter.value && org.roller?.[0]?.rolle !== roleFilter.value) return false
     if (innsenderFilter.value && parseInnsender(org.innsender) !== innsenderFilter.value) return false
+    if (sendeFilter.value && !org.sendeliste?.some(m => m.meldingstype === sendeFilter.value)) return false
+    if (mottakFilter.value && !org.mottaksliste?.some(m => m.meldingstype === mottakFilter.value)) return false
     return true
   })
 })
@@ -62,6 +75,8 @@ function clearFilters() {
   searchText.value = ''
   roleFilter.value = ''
   innsenderFilter.value = ''
+  sendeFilter.value = ''
+  mottakFilter.value = ''
 }
 </script>
 
@@ -75,13 +90,19 @@ function clearFilters() {
     <FilterBar
       :role-options="roleOptions"
       :innsender-options="innsenderOptions"
+      :sende-options="sendeOptions"
+      :mottak-options="mottakOptions"
       :role-filter="roleFilter"
       :innsender-filter="innsenderFilter"
+      :sende-filter="sendeFilter"
+      :mottak-filter="mottakFilter"
       :search-text="searchText"
       :has-active-filters="hasActiveFilters"
       @search="searchText = $event"
       @role="roleFilter = $event"
       @innsender="innsenderFilter = $event"
+      @sende="sendeFilter = $event"
+      @mottak="mottakFilter = $event"
       @clear="clearFilters"
     />
 
