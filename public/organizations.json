@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T08:09:47+02:00",
+  "lastUpdated": "2026-06-10T08:24:11+02:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -5730,6 +5730,51 @@
         }
       ],
       "sistEndret": "08.06.2026 14:55:24"
+    },
+    {
+      "organisasjonsnavn": "EIKA DIGITALBANK AS",
+      "innsender": "Ambita AS (support@ambita.com)",
+      "roller": [
+        {
+          "rolle": "Bank"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        }
+      ],
+      "organisasjonsnummer": "989997254",
+      "sendeliste": [
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
+        }
+      ],
+      "sistEndret": "09.06.2026 12:32:56"
     },
     {
       "organisasjonsnavn": "Gabrielsen & Partners AS",
@@ -18141,6 +18186,42 @@
         }
       ],
       "sistEndret": "16.12.2025 08:11:17"
+    },
+    {
+      "organisasjonsnavn": "ADVOKAT INGRID STORVIK",
+      "innsender": "Ambita AS (support@ambita.com)",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
+        }
+      ],
+      "organisasjonsnummer": "920188729",
+      "sendeliste": [
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        }
+      ],
+      "sistEndret": "09.06.2026 15:04:16"
     },
     {
       "organisasjonsnavn": "ADVOKAT NILS O LID",
