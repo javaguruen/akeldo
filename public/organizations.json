@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T08:49:20+02:00",
+  "lastUpdated": "2026-06-12T08:42:19+02:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -8915,42 +8915,6 @@
       "sistEndret": "13.11.2025 08:34:35"
     },
     {
-      "organisasjonsnavn": "SEM & JOHNSEN NYE BOLIGER AS",
-      "innsender": "Ambita AS - support@ambita.com",
-      "roller": [
-        {
-          "rolle": "Megler"
-        }
-      ],
-      "mottaksliste": [
-        {
-          "meldingstype": "SignedMortgageDeed"
-        },
-        {
-          "meldingstype": "IntensjonFraBank"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeedPdf"
-        }
-      ],
-      "organisasjonsnummer": "997812824",
-      "sendeliste": [
-        {
-          "meldingstype": "SignedMortgageDeedProcessed"
-        },
-        {
-          "meldingstype": "IntensjonssvarFraMegler"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        }
-      ],
-      "sistEndret": "13.03.2026 08:24:09"
-    },
-    {
       "organisasjonsnavn": "OBOS Eiendomsmeglere AS",
       "innsender": "Broker AS - support@broker.no",
       "roller": [
@@ -12831,42 +12795,6 @@
         }
       ],
       "sistEndret": "04.11.2025 13:11:28"
-    },
-    {
-      "organisasjonsnavn": "JM NORGE AS",
-      "innsender": "support@ambita.no",
-      "roller": [
-        {
-          "rolle": "Megler"
-        }
-      ],
-      "mottaksliste": [
-        {
-          "meldingstype": "SignedMortgageDeed"
-        },
-        {
-          "meldingstype": "IntensjonFraBank"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeedPdf"
-        }
-      ],
-      "organisasjonsnummer": "829350122",
-      "sendeliste": [
-        {
-          "meldingstype": "SignedMortgageDeedProcessed"
-        },
-        {
-          "meldingstype": "IntensjonssvarFraMegler"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        }
-      ],
-      "sistEndret": "13.03.2026 08:01:22"
     },
     {
       "organisasjonsnavn": "TINDE ADVOKATFIRMA AS",
