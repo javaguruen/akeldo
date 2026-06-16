@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T09:21:03+02:00",
+  "lastUpdated": "2026-06-16T09:27:25+02:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -22917,6 +22917,45 @@
         }
       ],
       "sistEndret": "02.06.2026 14:18:39"
+    },
+    {
+      "organisasjonsnavn": "STEINKJERADVOKATENE ANS",
+      "innsender": "post@propware.no",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        }
+      ],
+      "organisasjonsnummer": "947948946",
+      "sendeliste": [
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "GjennomfoertEtinglysing"
+        }
+      ],
+      "sistEndret": "16.06.2026 07:54:42"
     },
     {
       "organisasjonsnavn": "ADNOR ADVOKAT AS",
