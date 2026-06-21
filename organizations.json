@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T08:21:16+02:00",
+  "lastUpdated": "2026-06-21T08:51:48+02:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -47,6 +47,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -57,12 +63,6 @@
         },
         {
           "meldingstype": "GjennomfoertEtinglysing"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         },
         {
           "meldingstype": "AvbruttSamhandling"
@@ -101,6 +101,15 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
           "meldingstype": "IntensjonssvarFraMegler"
         },
         {
@@ -108,15 +117,6 @@
         },
         {
           "meldingstype": "GjennomfoertEtinglysing"
-        },
-        {
-          "meldingstype": "SignedMortgageDeedProcessed"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         },
         {
           "meldingstype": "AvbruttSamhandling"
@@ -188,6 +188,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -198,12 +204,6 @@
         },
         {
           "meldingstype": "GjennomfoertEtinglysing"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         },
         {
           "meldingstype": "AvbruttSamhandling"
@@ -242,6 +242,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -252,12 +258,6 @@
         },
         {
           "meldingstype": "GjennomfoertEtinglysing"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         },
         {
           "meldingstype": "AvbruttSamhandling"
@@ -296,6 +296,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -306,12 +312,6 @@
         },
         {
           "meldingstype": "GjennomfoertEtinglysing"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         },
         {
           "meldingstype": "AvbruttSamhandling"
@@ -386,6 +386,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -396,12 +402,6 @@
         },
         {
           "meldingstype": "GjennomfoertEtinglysing"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         },
         {
           "meldingstype": "AvbruttSamhandling"
@@ -440,6 +440,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -447,9 +450,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "989418475",
@@ -512,6 +512,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -519,9 +522,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "914361370",
@@ -620,6 +620,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -627,9 +630,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "811669202",
@@ -656,6 +656,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -663,9 +666,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "986258205",
@@ -728,6 +728,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -735,9 +738,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "983196977",
@@ -764,6 +764,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -771,9 +774,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "990860467",
@@ -800,6 +800,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -807,9 +810,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -989,6 +989,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -996,9 +999,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "922237867",
@@ -1061,6 +1061,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -1073,16 +1079,10 @@
           "meldingstype": "GjennomfoertEtinglysing"
         },
         {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
+          "meldingstype": "OppnaaddPrioritetOK"
         },
         {
           "meldingstype": "AvbruttSamhandling"
-        },
-        {
-          "meldingstype": "OppnaaddPrioritetOK"
         }
       ],
       "organisasjonsnummer": "971171324",
@@ -1154,9 +1154,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -1164,6 +1161,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "913164717",
@@ -1232,6 +1232,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -1239,9 +1242,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "923773045",
@@ -1340,6 +1340,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -1347,9 +1350,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "847890622",
@@ -1376,6 +1376,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -1388,16 +1394,10 @@
           "meldingstype": "GjennomfoertEtinglysing"
         },
         {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
+          "meldingstype": "OppnaaddPrioritetOK"
         },
         {
           "meldingstype": "AvbruttSamhandling"
-        },
-        {
-          "meldingstype": "OppnaaddPrioritetOK"
         }
       ],
       "organisasjonsnummer": "937899319",
@@ -1433,9 +1433,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -1443,6 +1440,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "914983401",
@@ -1517,13 +1517,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -1595,7 +1595,7 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
@@ -1607,7 +1607,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "994698559",
@@ -1766,6 +1766,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -1773,9 +1776,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -1817,7 +1817,7 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
@@ -1829,7 +1829,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "917989338",
@@ -1868,6 +1868,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -1875,9 +1878,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "999262392",
@@ -1904,7 +1904,7 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
@@ -1916,7 +1916,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "896306782",
@@ -1955,6 +1955,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -1962,9 +1965,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -2006,7 +2006,7 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "IntensjonFraBank"
@@ -2015,7 +2015,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "SignedMortgageDeed"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "913019695",
@@ -2048,6 +2048,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -2058,12 +2064,6 @@
         },
         {
           "meldingstype": "GjennomfoertEtinglysing"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         },
         {
           "meldingstype": "AvbruttSamhandling"
@@ -2102,16 +2102,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "IntensjonFraBank"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -2189,16 +2189,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "IntensjonFraBank"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -2282,16 +2282,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "IntensjonFraBank"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -2420,9 +2420,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
@@ -2433,6 +2430,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "922415080",
@@ -2507,6 +2507,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -2514,9 +2517,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -2558,6 +2558,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -2565,9 +2568,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -2609,6 +2609,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -2616,12 +2622,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "937903146",
@@ -2651,19 +2651,19 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "IntensjonssvarFraMegler"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         },
         {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
         }
       ],
       "organisasjonsnummer": "982719445",
@@ -2693,6 +2693,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -2700,12 +2706,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "937885911",
@@ -2735,19 +2735,19 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "IntensjonssvarFraMegler"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         },
         {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
         }
       ],
       "organisasjonsnummer": "947278770",
@@ -2819,7 +2819,7 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
@@ -2831,7 +2831,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "921581718",
@@ -2870,9 +2870,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -2880,6 +2877,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "996291413",
@@ -2912,7 +2912,7 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
@@ -2924,7 +2924,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "988526525",
@@ -2963,6 +2963,15 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
           "meldingstype": "IntensjonssvarFraMegler"
         },
         {
@@ -2972,19 +2981,10 @@
           "meldingstype": "GjennomfoertEtinglysing"
         },
         {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
+          "meldingstype": "OppnaaddPrioritetOK"
         },
         {
           "meldingstype": "AvbruttSamhandling"
-        },
-        {
-          "meldingstype": "SignedMortgageDeedProcessed"
-        },
-        {
-          "meldingstype": "OppnaaddPrioritetOK"
         }
       ],
       "organisasjonsnummer": "920426530",
@@ -3161,13 +3161,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -3197,9 +3197,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -3207,6 +3204,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "914888026",
@@ -3239,19 +3239,19 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "IntensjonssvarFraMegler"
+          "meldingstype": "KjoepekontraktSvarFraMegler"
         },
         {
-          "meldingstype": "Intensjonsendring"
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         },
         {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
+          "meldingstype": "IntensjonssvarFraMegler"
         },
         {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
+          "meldingstype": "Intensjonsendring"
         }
       ],
       "organisasjonsnummer": "937901291",
@@ -3281,6 +3281,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -3288,12 +3294,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "937885644",
@@ -3323,6 +3323,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -3330,12 +3336,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "937887043",
@@ -3365,19 +3365,19 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "IntensjonssvarFraMegler"
+          "meldingstype": "KjoepekontraktSvarFraMegler"
         },
         {
-          "meldingstype": "Intensjonsendring"
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         },
         {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
+          "meldingstype": "IntensjonssvarFraMegler"
         },
         {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
+          "meldingstype": "Intensjonsendring"
         }
       ],
       "organisasjonsnummer": "937901569",
@@ -3407,6 +3407,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -3414,12 +3420,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "937900953",
@@ -3449,6 +3449,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -3456,12 +3462,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "937900775",
@@ -3491,6 +3491,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -3498,12 +3504,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "956548888",
@@ -3533,19 +3533,19 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "IntensjonssvarFraMegler"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         },
         {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
         }
       ],
       "organisasjonsnummer": "915691161",
@@ -3575,6 +3575,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -3582,12 +3588,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "937891245",
@@ -3617,6 +3617,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -3624,12 +3630,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "837889812",
@@ -3659,6 +3659,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -3666,12 +3672,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "837897912",
@@ -3701,6 +3701,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -3708,12 +3714,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "937902263",
@@ -3743,12 +3743,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "IntensjonssvarFraMegler"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "KjoepekontraktSvarFraMegler"
         },
         {
@@ -3756,6 +3750,12 @@
         },
         {
           "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
         }
       ],
       "organisasjonsnummer": "937903979",
@@ -3785,6 +3785,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -3792,12 +3798,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "937885288",
@@ -3827,6 +3827,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -3834,12 +3840,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "937886160",
@@ -3869,6 +3869,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -3876,12 +3882,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "991853995",
@@ -3911,6 +3911,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -3918,12 +3924,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "937893833",
@@ -3953,19 +3953,19 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "IntensjonssvarFraMegler"
+          "meldingstype": "KjoepekontraktSvarFraMegler"
         },
         {
-          "meldingstype": "Intensjonsendring"
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         },
         {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
+          "meldingstype": "IntensjonssvarFraMegler"
         },
         {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
+          "meldingstype": "Intensjonsendring"
         }
       ],
       "organisasjonsnummer": "937902085",
@@ -4028,19 +4028,19 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "IntensjonssvarFraMegler"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         },
         {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
         }
       ],
       "organisasjonsnummer": "937884494",
@@ -4070,6 +4070,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -4077,12 +4083,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "937888570",
@@ -4112,6 +4112,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -4119,12 +4125,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "937899963",
@@ -4154,6 +4154,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -4161,12 +4167,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "937894171",
@@ -4196,6 +4196,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -4203,12 +4209,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "937891423",
@@ -4238,6 +4238,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -4245,12 +4251,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "937885377",
@@ -4280,6 +4280,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -4287,12 +4293,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "985750378",
@@ -4322,6 +4322,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -4329,12 +4335,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "937904673",
@@ -4364,6 +4364,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -4371,12 +4377,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "937886705",
@@ -4406,6 +4406,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -4413,12 +4419,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "937888759",
@@ -4448,6 +4448,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -4455,12 +4461,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "937893922",
@@ -4490,6 +4490,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -4497,12 +4503,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "837902622",
@@ -4532,6 +4532,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -4539,12 +4545,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "817244742",
@@ -4574,6 +4574,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -4581,12 +4587,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "837900212",
@@ -4616,6 +4616,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -4623,12 +4629,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "937903235",
@@ -4658,6 +4658,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -4665,12 +4671,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "937894260",
@@ -4700,6 +4700,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -4707,12 +4713,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "937902174",
@@ -4808,6 +4808,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -4815,12 +4821,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "937885822",
@@ -4850,19 +4850,19 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "IntensjonssvarFraMegler"
+          "meldingstype": "KjoepekontraktSvarFraMegler"
         },
         {
-          "meldingstype": "Intensjonsendring"
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         },
         {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
+          "meldingstype": "IntensjonssvarFraMegler"
         },
         {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
+          "meldingstype": "Intensjonsendring"
         }
       ],
       "organisasjonsnummer": "937895976",
@@ -4892,19 +4892,19 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "IntensjonssvarFraMegler"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         },
         {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
         }
       ],
       "organisasjonsnummer": "937894805",
@@ -4985,6 +4985,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -4992,9 +4995,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -5114,7 +5114,7 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "IntensjonFraBank"
@@ -5123,7 +5123,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "SignedMortgageDeed"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "922936382",
@@ -5156,9 +5156,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -5166,6 +5163,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "817509282",
@@ -5198,19 +5198,19 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "912587762",
@@ -5249,7 +5249,7 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
@@ -5261,7 +5261,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "996324451",
@@ -5372,6 +5372,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -5379,9 +5382,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -5423,9 +5423,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -5433,6 +5430,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "979915772",
@@ -5465,6 +5465,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -5478,12 +5484,6 @@
         },
         {
           "meldingstype": "AvbruttSamhandling"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "980374181",
@@ -5519,7 +5519,7 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
@@ -5531,7 +5531,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "995311720",
@@ -5603,7 +5603,7 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
@@ -5615,7 +5615,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "991089888",
@@ -5654,16 +5654,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "IntensjonFraBank"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -5741,6 +5741,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -5748,12 +5754,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "989997254",
@@ -5786,6 +5786,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -5793,9 +5796,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "987883944",
@@ -5822,9 +5822,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -5832,6 +5829,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "912641066",
@@ -5900,16 +5900,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "IntensjonFraBank"
         },
         {
-          "meldingstype": "IntensjonFraBank"
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "819166102",
@@ -5936,6 +5936,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -5946,12 +5952,6 @@
         },
         {
           "meldingstype": "GjennomfoertEtinglysing"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         },
         {
           "meldingstype": "AvbruttSamhandling"
@@ -6098,6 +6098,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -6105,9 +6108,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "994194410",
@@ -6134,9 +6134,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -6144,6 +6141,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "912021327",
@@ -6212,19 +6212,19 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
-        },
-        {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "937205139",
@@ -6299,19 +6299,19 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "Intensjonsendring"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "IntensjonFraBank"
         }
       ],
       "organisasjonsnummer": "985496242",
@@ -6350,6 +6350,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -6357,9 +6360,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -6539,16 +6539,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "IntensjonFraBank"
         },
         {
-          "meldingstype": "IntensjonFraBank"
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "986684905",
@@ -6659,7 +6659,7 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
@@ -6671,7 +6671,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "926501097",
@@ -6749,6 +6749,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -6756,9 +6759,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "987708204",
@@ -6821,6 +6821,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -6828,9 +6831,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "926591126",
@@ -6899,6 +6899,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -6906,9 +6909,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "989301101",
@@ -6935,28 +6935,28 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "GjennomfoertEtinglysing"
-        },
-        {
           "meldingstype": "KjoepekontraktSvarFraMegler"
         },
         {
           "meldingstype": "KjoepekontraktEndringFraMegler"
         },
         {
-          "meldingstype": "AvbruttSamhandling"
+          "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
-          "meldingstype": "SignedMortgageDeedProcessed"
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "GjennomfoertEtinglysing"
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
         },
         {
-          "meldingstype": "IntensjonssvarFraMegler"
+          "meldingstype": "AvbruttSamhandling"
         }
       ],
       "organisasjonsnummer": "937904029",
@@ -6989,16 +6989,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "927219875",
@@ -7025,7 +7025,7 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
@@ -7037,7 +7037,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "921956797",
@@ -7313,6 +7313,15 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
           "meldingstype": "IntensjonssvarFraMegler"
         },
         {
@@ -7322,16 +7331,7 @@
           "meldingstype": "GjennomfoertEtinglysing"
         },
         {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
-        },
-        {
           "meldingstype": "AvbruttSamhandling"
-        },
-        {
-          "meldingstype": "SignedMortgageDeedProcessed"
         }
       ],
       "organisasjonsnummer": "911986884",
@@ -7457,6 +7457,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -7469,16 +7475,10 @@
           "meldingstype": "GjennomfoertEtinglysing"
         },
         {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
+          "meldingstype": "OppnaaddPrioritetOK"
         },
         {
           "meldingstype": "AvbruttSamhandling"
-        },
-        {
-          "meldingstype": "OppnaaddPrioritetOK"
         }
       ],
       "organisasjonsnummer": "946670081",
@@ -7511,6 +7511,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -7518,9 +7521,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -7592,6 +7592,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -7599,9 +7602,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -7637,6 +7637,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -7644,9 +7647,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -7718,9 +7718,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -7728,6 +7725,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "985304505",
@@ -7796,13 +7796,13 @@
           "meldingstype": "SignedMortgageDeed"
         },
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "934089812",
@@ -7838,6 +7838,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -7845,9 +7848,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "920899439",
@@ -7874,6 +7874,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -7886,16 +7892,10 @@
           "meldingstype": "GjennomfoertEtinglysing"
         },
         {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
+          "meldingstype": "OppnaaddPrioritetOK"
         },
         {
           "meldingstype": "AvbruttSamhandling"
-        },
-        {
-          "meldingstype": "OppnaaddPrioritetOK"
         }
       ],
       "organisasjonsnummer": "952706365",
@@ -7928,6 +7928,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -7940,16 +7946,10 @@
           "meldingstype": "GjennomfoertEtinglysing"
         },
         {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
+          "meldingstype": "OppnaaddPrioritetOK"
         },
         {
           "meldingstype": "AvbruttSamhandling"
-        },
-        {
-          "meldingstype": "OppnaaddPrioritetOK"
         }
       ],
       "organisasjonsnummer": "937888104",
@@ -7982,6 +7982,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -7994,16 +8000,10 @@
           "meldingstype": "GjennomfoertEtinglysing"
         },
         {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
+          "meldingstype": "OppnaaddPrioritetOK"
         },
         {
           "meldingstype": "AvbruttSamhandling"
-        },
-        {
-          "meldingstype": "OppnaaddPrioritetOK"
         }
       ],
       "organisasjonsnummer": "937899408",
@@ -8180,6 +8180,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -8187,9 +8190,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "918146326",
@@ -8216,6 +8216,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -8223,9 +8226,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "916491034",
@@ -8252,6 +8252,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -8259,9 +8262,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "919159863",
@@ -8324,6 +8324,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -8331,9 +8334,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "921442564",
@@ -8360,6 +8360,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -8367,9 +8370,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "915491065",
@@ -8396,6 +8396,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -8403,9 +8406,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "819884382",
@@ -8468,6 +8468,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -8480,16 +8486,10 @@
           "meldingstype": "GjennomfoertEtinglysing"
         },
         {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
+          "meldingstype": "OppnaaddPrioritetOK"
         },
         {
           "meldingstype": "AvbruttSamhandling"
-        },
-        {
-          "meldingstype": "OppnaaddPrioritetOK"
         }
       ],
       "organisasjonsnummer": "937889275",
@@ -8567,13 +8567,13 @@
           "meldingstype": "SignedMortgageDeed"
         },
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "936721788",
@@ -8609,19 +8609,19 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "KjoepekontraktforespoerselFraBank"
-        },
-        {
-          "meldingstype": "SignedMortgageDeedPdf"
         },
         {
           "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "981129792",
@@ -8654,19 +8654,19 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "KjoepekontraktforespoerselFraBank"
-        },
-        {
-          "meldingstype": "SignedMortgageDeedPdf"
         },
         {
           "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "993609145",
@@ -8744,13 +8744,13 @@
           "meldingstype": "SignedMortgageDeed"
         },
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "Intensjonsendring"
         },
         {
           "meldingstype": "IntensjonFraMegler"
         },
         {
-          "meldingstype": "Intensjonsendring"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "936324029",
@@ -8786,13 +8786,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -8822,6 +8822,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -8829,9 +8832,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -8873,6 +8873,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -8880,9 +8883,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -8972,10 +8972,10 @@
           "meldingstype": "IntensjonFraBank"
         },
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "Intensjonsendring"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "913368002",
@@ -9053,7 +9053,7 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "IntensjonFraBank"
@@ -9062,7 +9062,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "SignedMortgageDeed"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "998162068",
@@ -9209,6 +9209,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -9216,9 +9219,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -9260,7 +9260,10 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "IntensjonFraBank"
@@ -9269,10 +9272,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "994957082",
@@ -9311,16 +9311,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "IntensjonFraBank"
         },
         {
-          "meldingstype": "IntensjonFraBank"
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "979870167",
@@ -9383,9 +9383,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
@@ -9393,6 +9390,9 @@
         },
         {
           "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -9470,9 +9470,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -9480,6 +9477,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "888622152",
@@ -9512,6 +9512,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -9519,9 +9522,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "982253896",
@@ -9548,9 +9548,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -9558,6 +9555,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "914594863",
@@ -9590,7 +9590,7 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "IntensjonFraBank"
@@ -9599,7 +9599,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "SignedMortgageDeed"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "991458409",
@@ -9632,6 +9632,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -9639,9 +9642,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -9683,9 +9683,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -9693,6 +9690,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "992767022",
@@ -9767,16 +9767,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "999638996",
@@ -9839,6 +9839,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -9846,9 +9849,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -9926,6 +9926,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -9933,9 +9936,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -9977,6 +9977,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -9984,9 +9987,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "980929884",
@@ -10208,6 +10208,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -10215,9 +10218,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -10259,9 +10259,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -10269,6 +10266,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "987281758",
@@ -10295,16 +10295,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "912307301",
@@ -10331,6 +10331,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -10338,9 +10341,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -10382,16 +10382,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "IntensjonFraBank"
         },
         {
-          "meldingstype": "IntensjonFraBank"
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "983374654",
@@ -10418,6 +10418,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -10425,9 +10428,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -10469,9 +10469,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -10479,6 +10476,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "912302180",
@@ -10511,16 +10511,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "IntensjonFraBank"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -10562,9 +10562,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -10572,6 +10569,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "985403368",
@@ -10682,6 +10682,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -10689,9 +10692,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "921176333",
@@ -10718,13 +10718,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -10796,6 +10796,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -10803,9 +10806,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "976232909",
@@ -10832,9 +10832,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -10842,6 +10839,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "916959478",
@@ -10952,7 +10952,7 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
@@ -10964,7 +10964,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "916746210",
@@ -11003,6 +11003,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -11010,9 +11013,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "958499558",
@@ -11039,13 +11039,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -11075,13 +11075,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -11156,6 +11156,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -11163,9 +11166,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -11309,19 +11309,19 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
-        },
-        {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "833384252",
@@ -11354,6 +11354,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -11361,9 +11364,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "931262041",
@@ -11390,6 +11390,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -11397,9 +11400,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -11444,6 +11444,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -11456,16 +11462,10 @@
           "meldingstype": "GjennomfoertEtinglysing"
         },
         {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
+          "meldingstype": "OppnaaddPrioritetOK"
         },
         {
           "meldingstype": "AvbruttSamhandling"
-        },
-        {
-          "meldingstype": "OppnaaddPrioritetOK"
         }
       ],
       "organisasjonsnummer": "937889631",
@@ -11498,6 +11498,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -11510,16 +11516,10 @@
           "meldingstype": "GjennomfoertEtinglysing"
         },
         {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
+          "meldingstype": "OppnaaddPrioritetOK"
         },
         {
           "meldingstype": "AvbruttSamhandling"
-        },
-        {
-          "meldingstype": "OppnaaddPrioritetOK"
         }
       ],
       "organisasjonsnummer": "837884942",
@@ -11552,6 +11552,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -11564,16 +11570,10 @@
           "meldingstype": "GjennomfoertEtinglysing"
         },
         {
-          "meldingstype": "AvbruttSamhandling"
-        },
-        {
           "meldingstype": "OppnaaddPrioritetOK"
         },
         {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
+          "meldingstype": "AvbruttSamhandling"
         }
       ],
       "organisasjonsnummer": "937901003",
@@ -11678,6 +11678,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -11685,9 +11688,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "911615479",
@@ -11714,6 +11714,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -11726,16 +11732,10 @@
           "meldingstype": "GjennomfoertEtinglysing"
         },
         {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
+          "meldingstype": "OppnaaddPrioritetOK"
         },
         {
           "meldingstype": "AvbruttSamhandling"
-        },
-        {
-          "meldingstype": "OppnaaddPrioritetOK"
         }
       ],
       "organisasjonsnummer": "937888015",
@@ -11768,6 +11768,15 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
           "meldingstype": "IntensjonssvarFraMegler"
         },
         {
@@ -11777,19 +11786,10 @@
           "meldingstype": "GjennomfoertEtinglysing"
         },
         {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
+          "meldingstype": "OppnaaddPrioritetOK"
         },
         {
           "meldingstype": "AvbruttSamhandling"
-        },
-        {
-          "meldingstype": "SignedMortgageDeedProcessed"
-        },
-        {
-          "meldingstype": "OppnaaddPrioritetOK"
         }
       ],
       "organisasjonsnummer": "937895321",
@@ -11858,16 +11858,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "IntensjonFraBank"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -11903,6 +11903,12 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
@@ -11910,12 +11916,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
       "organisasjonsnummer": "837895502",
@@ -11981,6 +11981,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -11988,9 +11991,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "992651520",
@@ -12314,7 +12314,7 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
@@ -12326,7 +12326,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "932177331",
@@ -12368,6 +12368,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -12375,9 +12378,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "995684926",
@@ -12404,6 +12404,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -12411,9 +12414,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "968528343",
@@ -12440,13 +12440,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -12617,6 +12617,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -12624,9 +12627,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -12668,7 +12668,10 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "IntensjonFraBank"
@@ -12677,10 +12680,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "924546840",
@@ -12755,7 +12755,7 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
@@ -12767,7 +12767,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "931999249",
@@ -12884,6 +12884,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -12891,9 +12894,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "821221862",
@@ -12920,6 +12920,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -12927,9 +12930,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -12971,6 +12971,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -12978,9 +12981,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -13022,16 +13022,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "919227222",
@@ -13094,7 +13094,7 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
@@ -13106,7 +13106,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "983261523",
@@ -13184,10 +13184,10 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeed"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "IntensjonFraBank"
@@ -13277,13 +13277,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -13388,16 +13388,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "IntensjonFraBank"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -13511,6 +13511,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -13518,9 +13521,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -13562,9 +13562,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
@@ -13575,6 +13572,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "932955067",
@@ -13613,6 +13613,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -13620,9 +13623,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -13703,13 +13703,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -13859,7 +13859,10 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "IntensjonFraBank"
@@ -13868,10 +13871,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "932862484",
@@ -13910,6 +13910,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -13917,9 +13920,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "933480879",
@@ -13982,16 +13982,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "IntensjonFraBank"
         },
         {
-          "meldingstype": "IntensjonFraBank"
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "889993502",
@@ -14054,7 +14054,7 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
@@ -14066,7 +14066,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "929031334",
@@ -14213,13 +14213,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -14249,13 +14249,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -14321,13 +14321,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -14357,16 +14357,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "IntensjonFraBank"
         },
         {
-          "meldingstype": "IntensjonFraBank"
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "920146406",
@@ -14393,16 +14393,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "IntensjonFraBank"
         },
         {
-          "meldingstype": "IntensjonFraBank"
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "978647316",
@@ -14465,13 +14465,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -14504,16 +14504,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "IntensjonFraBank"
         },
         {
-          "meldingstype": "IntensjonFraBank"
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "977048958",
@@ -14540,16 +14540,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "IntensjonFraBank"
         },
         {
-          "meldingstype": "IntensjonFraBank"
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "898489582",
@@ -14576,6 +14576,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -14583,9 +14586,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -14627,16 +14627,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "IntensjonFraBank"
         },
         {
-          "meldingstype": "IntensjonFraBank"
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "998643058",
@@ -14699,13 +14699,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -14819,10 +14819,10 @@
           "meldingstype": "SignedMortgageDeed"
         },
         {
-          "meldingstype": "Intensjonsendring"
+          "meldingstype": "IntensjonFraBank"
         },
         {
-          "meldingstype": "IntensjonFraBank"
+          "meldingstype": "Intensjonsendring"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -14852,13 +14852,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -14891,6 +14891,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -14898,9 +14901,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -14942,7 +14942,10 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "IntensjonFraBank"
@@ -14951,10 +14954,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "990224463",
@@ -14993,16 +14993,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "IntensjonFraBank"
         },
         {
-          "meldingstype": "IntensjonFraBank"
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "913795873",
@@ -15146,6 +15146,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -15153,9 +15156,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "920839878",
@@ -15314,13 +15314,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
           "meldingstype": "IntensjonssvarFraMegler"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeedProcessed"
         }
       ],
       "organisasjonsnummer": "937891601",
@@ -15380,9 +15380,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -15390,6 +15387,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "929451422",
@@ -15422,6 +15422,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -15429,9 +15432,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "930567795",
@@ -15530,13 +15530,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -15602,6 +15602,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -15609,9 +15612,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "950522550",
@@ -15638,7 +15638,7 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
@@ -15650,7 +15650,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "916130163",
@@ -15689,6 +15689,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -15696,9 +15699,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -15740,6 +15740,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -15747,9 +15750,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "811880612",
@@ -15812,6 +15812,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -15819,9 +15822,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "990997810",
@@ -15848,9 +15848,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -15858,6 +15855,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "924949449",
@@ -15890,6 +15890,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -15897,9 +15900,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "932534088",
@@ -15926,10 +15926,10 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeed"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "IntensjonFraBank"
@@ -15980,7 +15980,7 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
@@ -15992,7 +15992,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "922183201",
@@ -16031,7 +16031,7 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
@@ -16043,7 +16043,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "933326020",
@@ -16184,13 +16184,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
           "meldingstype": "IntensjonssvarFraMegler"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeedProcessed"
         }
       ],
       "organisasjonsnummer": "937885199",
@@ -16253,6 +16253,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -16260,9 +16263,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -16304,13 +16304,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -16568,6 +16568,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -16575,9 +16578,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "981407814",
@@ -16643,6 +16643,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -16650,9 +16653,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "996440869",
@@ -16679,6 +16679,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -16686,9 +16689,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "912160068",
@@ -16715,6 +16715,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -16722,9 +16725,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "885719392",
@@ -16787,13 +16787,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -17060,13 +17060,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -17450,7 +17450,7 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
@@ -17462,7 +17462,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "933109259",
@@ -17543,16 +17543,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "IntensjonFraBank"
         },
         {
-          "meldingstype": "IntensjonFraBank"
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "933326071",
@@ -17693,13 +17693,13 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "897414392",
@@ -17729,13 +17729,13 @@
           "meldingstype": "SignedMortgageDeed"
         },
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "936282350",
@@ -17771,16 +17771,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "IntensjonFraBank"
         },
         {
-          "meldingstype": "IntensjonFraBank"
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "818120842",
@@ -17846,6 +17846,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -17853,9 +17856,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "930359815",
@@ -17882,7 +17882,10 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "IntensjonFraBank"
@@ -17891,10 +17894,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "945064358",
@@ -18011,13 +18011,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -18086,13 +18086,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -18278,6 +18278,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -18285,9 +18288,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "995483335",
@@ -18317,6 +18317,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -18324,9 +18327,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "920923305",
@@ -18353,13 +18353,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -18431,13 +18431,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -18473,16 +18473,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "IntensjonFraBank"
         },
         {
-          "meldingstype": "IntensjonFraBank"
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "933456056",
@@ -18545,7 +18545,10 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "IntensjonFraBank"
@@ -18554,10 +18557,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "SignedMortgageDeed"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "933918106",
@@ -18713,6 +18713,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -18720,9 +18723,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "829235722",
@@ -18785,13 +18785,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -18857,9 +18857,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -18867,6 +18864,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "922750718",
@@ -18899,13 +18899,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -18938,6 +18938,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -18945,9 +18948,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "917338159",
@@ -19040,6 +19040,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -19047,9 +19050,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -19091,13 +19091,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -19127,13 +19127,13 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "Intensjonsendring"
+          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "IntensjonFraBank"
         },
         {
-          "meldingstype": "SignedMortgageDeed"
+          "meldingstype": "Intensjonsendring"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -19166,6 +19166,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -19173,9 +19176,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "925899224",
@@ -19241,9 +19241,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -19251,6 +19248,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "980872424",
@@ -19319,6 +19319,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -19326,9 +19329,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "921027583",
@@ -19427,6 +19427,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -19434,9 +19437,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "927305593",
@@ -19571,6 +19571,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -19578,9 +19581,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "927685000",
@@ -19607,6 +19607,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -19614,9 +19617,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "947996053",
@@ -19796,6 +19796,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -19803,9 +19806,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "957423248",
@@ -19832,16 +19832,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "890396712",
@@ -20060,9 +20060,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
@@ -20070,6 +20067,9 @@
         },
         {
           "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -20111,13 +20111,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -20147,6 +20147,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -20154,9 +20157,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "958963629",
@@ -20255,6 +20255,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -20262,9 +20265,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "998580269",
@@ -20327,6 +20327,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -20334,9 +20337,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "932433192",
@@ -20363,7 +20363,7 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
@@ -20375,7 +20375,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "993773980",
@@ -20414,13 +20414,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -20450,13 +20450,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -20606,13 +20606,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -20684,13 +20684,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -20840,13 +20840,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -20879,16 +20879,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "IntensjonFraBank"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -20966,7 +20966,7 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
@@ -20978,7 +20978,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "933156664",
@@ -21017,6 +21017,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -21024,9 +21027,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "993971804",
@@ -21089,6 +21089,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -21096,9 +21099,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "934611330",
@@ -21125,7 +21125,7 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
@@ -21137,7 +21137,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "924606134",
@@ -21176,9 +21176,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
@@ -21189,6 +21186,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "823590342",
@@ -21299,13 +21299,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -21338,6 +21338,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -21345,9 +21348,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -21392,13 +21392,13 @@
           "meldingstype": "SignedMortgageDeed"
         },
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "937301316",
@@ -21506,19 +21506,19 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
         },
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "IntensjonFraBank"
         },
         {
-          "meldingstype": "IntensjonFraBank"
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "983350828",
@@ -21593,13 +21593,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -21662,6 +21662,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -21669,9 +21672,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -21716,7 +21716,10 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "IntensjonFraBank"
@@ -21725,10 +21728,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "916335466",
@@ -21770,13 +21770,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -21809,16 +21809,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "935856841",
@@ -21845,16 +21845,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "916531273",
@@ -21884,13 +21884,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -21923,6 +21923,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -21930,9 +21933,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "926402706",
@@ -21962,7 +21962,10 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "IntensjonFraBank"
@@ -21971,10 +21974,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "SignedMortgageDeed"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "935826020",
@@ -22016,6 +22016,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -22023,9 +22026,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -22070,13 +22070,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -22160,6 +22160,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -22167,9 +22170,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "926772694",
@@ -22319,13 +22319,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -22361,9 +22361,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -22371,6 +22368,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "989707671",
@@ -22400,6 +22400,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -22407,9 +22410,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -22454,9 +22454,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -22464,6 +22461,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "986018166",
@@ -22529,13 +22529,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -22565,13 +22565,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -22601,13 +22601,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -22637,13 +22637,13 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "Intensjonsendring"
+          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "IntensjonFraBank"
         },
         {
-          "meldingstype": "SignedMortgageDeed"
+          "meldingstype": "Intensjonsendring"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -22673,13 +22673,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -22709,9 +22709,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -22719,6 +22716,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "936964338",
@@ -22748,9 +22748,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -22758,6 +22755,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "919318554",
@@ -22787,9 +22787,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -22797,6 +22794,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "994267256",
@@ -22892,6 +22892,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -22899,9 +22902,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "977502047",
@@ -22928,9 +22928,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -22938,6 +22935,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "947948946",
@@ -23042,13 +23042,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -23150,6 +23150,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -23157,9 +23160,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -23201,9 +23201,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
@@ -23214,6 +23211,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "828154842",
@@ -23291,13 +23291,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -23327,7 +23327,7 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
@@ -23339,7 +23339,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "924773413",
@@ -23378,6 +23378,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -23385,9 +23388,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "992827106",
@@ -23414,7 +23414,10 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "IntensjonFraBank"
@@ -23423,10 +23426,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "935096219",
@@ -23465,9 +23465,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -23475,6 +23472,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "934662938",
@@ -23624,7 +23624,10 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "IntensjonFraBank"
@@ -23633,10 +23636,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "SignedMortgageDeed"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "933479978",
@@ -23828,13 +23828,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -23948,6 +23948,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -23955,9 +23958,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "931509268",
@@ -23990,13 +23990,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -24065,13 +24065,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "IntensjonFraBank"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
@@ -24188,13 +24188,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -24224,10 +24224,10 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "IntensjonFraBank"
+          "meldingstype": "SignedMortgageDeed"
         },
         {
-          "meldingstype": "SignedMortgageDeed"
+          "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
@@ -24296,6 +24296,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -24303,9 +24306,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -24347,10 +24347,10 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "IntensjonFraBank"
+          "meldingstype": "SignedMortgageDeed"
         },
         {
-          "meldingstype": "SignedMortgageDeed"
+          "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
@@ -24461,13 +24461,13 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -24500,7 +24500,7 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
@@ -24512,7 +24512,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "826962992",
@@ -24602,9 +24602,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
@@ -24615,6 +24612,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "990997861",
@@ -24653,7 +24653,10 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "IntensjonFraBank"
@@ -24662,10 +24665,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "926680617",
@@ -24704,6 +24704,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -24711,9 +24714,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "918444386",
@@ -24908,6 +24908,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -24915,9 +24918,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -24959,7 +24959,7 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
@@ -24971,7 +24971,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "918809589",
@@ -25010,6 +25010,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -25017,9 +25020,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -25061,19 +25061,19 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
-          "meldingstype": "Intensjonsendring"
+          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "IntensjonFraBank"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "SignedMortgageDeed"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "930815551",
@@ -25112,6 +25112,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -25119,9 +25122,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "934963385",
@@ -25259,7 +25259,7 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
@@ -25271,7 +25271,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "929508610",
@@ -25310,16 +25310,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "IntensjonFraBank"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -25361,6 +25361,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -25368,9 +25371,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "981291409",
@@ -25397,16 +25397,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "IntensjonFraBank"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -25487,6 +25487,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -25494,9 +25497,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "898783812",
@@ -25601,6 +25601,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -25608,9 +25611,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "923886966",
@@ -25637,7 +25637,7 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
@@ -25649,7 +25649,7 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "935768640",
@@ -25691,6 +25691,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -25698,9 +25701,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "835700402",
@@ -25727,6 +25727,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -25734,9 +25737,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "995336723",
@@ -25799,9 +25799,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -25809,6 +25806,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "815560272",
@@ -25874,6 +25874,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -25881,9 +25884,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "984607865",
@@ -25910,6 +25910,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -25917,9 +25920,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "925558311",
@@ -26021,13 +26021,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -26210,13 +26210,13 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -26288,16 +26288,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "IntensjonFraBank"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -26339,6 +26339,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -26346,9 +26349,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -26390,16 +26390,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "IntensjonFraBank"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
           "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -26441,6 +26441,9 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -26448,9 +26451,6 @@
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -26492,13 +26492,13 @@
       ],
       "mottaksliste": [
         {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -26786,9 +26786,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -26796,6 +26793,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "890944612",
@@ -26861,9 +26861,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -26871,6 +26868,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "984429509",
@@ -26936,16 +26936,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
+          "meldingstype": "SignedMortgageDeed"
         },
         {
           "meldingstype": "IntensjonFraBank"
         },
         {
-          "meldingstype": "SignedMortgageDeed"
+          "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "Intensjonsendring"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "980663582",
@@ -27047,9 +27047,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -27057,6 +27054,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "936683924",
