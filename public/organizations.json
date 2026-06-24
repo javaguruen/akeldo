@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T08:06:49+02:00",
+  "lastUpdated": "2026-06-24T08:07:03+02:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -27147,6 +27147,45 @@
         }
       ],
       "sistEndret": "25.03.2026 12:09:59"
+    },
+    {
+      "organisasjonsnavn": "ADVOKATFIRMA ØGLÆND & CO AS",
+      "innsender": "Propware AS - e-post post@propware.no",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
+        }
+      ],
+      "organisasjonsnummer": "990209022",
+      "sendeliste": [
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "GjennomfoertEtinglysing"
+        }
+      ],
+      "sistEndret": "23.06.2026 08:40:36"
     }
   ]
 }
