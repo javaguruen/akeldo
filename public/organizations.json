@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T08:07:03+02:00",
+  "lastUpdated": "2026-06-25T08:07:21+02:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -27132,6 +27132,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "937230451",
@@ -27146,7 +27149,7 @@
           "meldingstype": "Intensjonsendring"
         }
       ],
-      "sistEndret": "25.03.2026 12:09:59"
+      "sistEndret": "24.06.2026 13:39:28"
     },
     {
       "organisasjonsnavn": "ADVOKATFIRMA ØGLÆND & CO AS",
