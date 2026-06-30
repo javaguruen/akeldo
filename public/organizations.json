@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T08:47:58+02:00",
+  "lastUpdated": "2026-06-30T08:12:30+02:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -873,7 +873,7 @@
     },
     {
       "organisasjonsnavn": "EIENDOMSMEGLER A AS",
-      "innsender": "AMBITA AS - support@ambita.com",
+      "innsender": "Broker AS - support@broker.no",
       "roller": [
         {
           "rolle": "Megler"
@@ -896,16 +896,25 @@
       "organisasjonsnummer": "893527702",
       "sendeliste": [
         {
-          "meldingstype": "SignedMortgageDeedProcessed"
-        },
-        {
           "meldingstype": "IntensjonssvarFraMegler"
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "AvbruttSamhandling"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "GjennomfoertEtinglysing"
+        },
+        {
+          "meldingstype": "OppnaaddPrioritetOK"
         }
       ],
-      "sistEndret": "12.03.2026 15:05:28"
+      "sistEndret": "29.06.2026 13:59:17"
     },
     {
       "organisasjonsnavn": "Salten Eiendomsmegling AS",
@@ -5775,6 +5784,51 @@
         }
       ],
       "sistEndret": "09.06.2026 12:32:56"
+    },
+    {
+      "organisasjonsnavn": "PANORAMA EIENDOMSMEGLING AS",
+      "innsender": "Broker AS - support@broker.no",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
+        }
+      ],
+      "organisasjonsnummer": "937185677",
+      "sendeliste": [
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "AvbruttSamhandling"
+        },
+        {
+          "meldingstype": "GjennomfoertEtinglysing"
+        },
+        {
+          "meldingstype": "OppnaaddPrioritetOK"
+        }
+      ],
+      "sistEndret": "29.06.2026 11:03:55"
     },
     {
       "organisasjonsnavn": "Gabrielsen & Partners AS",
@@ -21618,6 +21672,42 @@
         }
       ],
       "sistEndret": "12.03.2026 14:56:17"
+    },
+    {
+      "organisasjonsnavn": "ADVOKAT KJELL-ARNE MATHISEN AS",
+      "innsender": "Ambita AS (support@ambita.com)",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        }
+      ],
+      "organisasjonsnummer": "916650051",
+      "sendeliste": [
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        }
+      ],
+      "sistEndret": "29.06.2026 09:02:24"
     },
     {
       "organisasjonsnavn": "BANK NORWEGIAN, EN FILIAL AV NOBA BANK GROUP AB (PUBL) NUF",
