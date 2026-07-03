@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T07:59:36+02:00",
+  "lastUpdated": "2026-07-03T07:53:40+02:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -5907,6 +5907,42 @@
         }
       ],
       "sistEndret": "04.11.2025 13:16:53"
+    },
+    {
+      "organisasjonsnavn": "AKTIV KARMØY AS",
+      "innsender": "Ambita AS (support@ambita.com)",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
+        }
+      ],
+      "organisasjonsnummer": "937561105",
+      "sendeliste": [
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        }
+      ],
+      "sistEndret": "02.07.2026 08:27:08"
     },
     {
       "organisasjonsnavn": "ABBL Eiendomsmegling AS",
