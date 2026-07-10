@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T08:04:51+02:00",
+  "lastUpdated": "2026-07-10T08:03:50+02:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -465,6 +465,45 @@
         }
       ],
       "sistEndret": "13.03.2026 08:28:43"
+    },
+    {
+      "organisasjonsnavn": "DALAN ADVOKATFIRMA AS",
+      "innsender": "Propware AS - e-post post@propware.no",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        }
+      ],
+      "organisasjonsnummer": "937780265",
+      "sendeliste": [
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "GjennomfoertEtinglysing"
+        }
+      ],
+      "sistEndret": "09.07.2026 13:00:55"
     },
     {
       "organisasjonsnavn": "Oslo Øst Eiendomsmegling AS",
@@ -18279,6 +18318,42 @@
         }
       ],
       "sistEndret": "16.12.2025 08:11:41"
+    },
+    {
+      "organisasjonsnavn": "ELDEN ADVOKATFIRMA AS",
+      "innsender": "Ambita AS - (support@ambita.com)",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
+        }
+      ],
+      "organisasjonsnummer": "925880426",
+      "sendeliste": [
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        }
+      ],
+      "sistEndret": "09.07.2026 14:42:22"
     },
     {
       "organisasjonsnavn": "ADVOKATFIRMAET WOLD AS",
