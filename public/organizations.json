@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T07:14:51+02:00",
+  "lastUpdated": "2026-07-29T07:21:45+02:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -18395,6 +18395,42 @@
       "sistEndret": "16.12.2025 08:12:03"
     },
     {
+      "organisasjonsnavn": "ADVOKAT ANDERS GUSTAV BJØRNSEN",
+      "innsender": "Ambita AS (support@ambita.com)",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
+        }
+      ],
+      "organisasjonsnummer": "920171826",
+      "sendeliste": [
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        }
+      ],
+      "sistEndret": "28.07.2026 08:07:25"
+    },
+    {
       "organisasjonsnavn": "ADVOKAT LEIRVÅG AS",
       "innsender": "Propware AS - post@propware.no",
       "roller": [
@@ -23157,6 +23193,42 @@
         }
       ],
       "sistEndret": "16.06.2026 07:54:42"
+    },
+    {
+      "organisasjonsnavn": "ADVOKATFIRMAET KVASSTIND AS",
+      "innsender": "Ambita AS (support@ambita.com)",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
+        }
+      ],
+      "organisasjonsnummer": "997318013",
+      "sendeliste": [
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        }
+      ],
+      "sistEndret": "28.07.2026 07:48:08"
     },
     {
       "organisasjonsnavn": "ADNOR ADVOKAT AS",
