@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T07:41:37+02:00",
+  "lastUpdated": "2026-08-04T07:14:41+02:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -24450,6 +24450,51 @@
         }
       ],
       "sistEndret": "20.03.2026 13:57:04"
+    },
+    {
+      "organisasjonsnavn": "TINHOLT EIENDOMSMEGLING PARKVEIEN AS",
+      "innsender": "Broker AS- support@broker.no",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        }
+      ],
+      "organisasjonsnummer": "937696779",
+      "sendeliste": [
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "AvbruttSamhandling"
+        },
+        {
+          "meldingstype": "GjennomfoertEtinglysing"
+        },
+        {
+          "meldingstype": "OppnaaddPrioritetOK"
+        }
+      ],
+      "sistEndret": "03.08.2026 14:32:14"
     },
     {
       "organisasjonsnavn": "HAUGESUND BOLIG OG PROSJEKTMEGLING AS",
