@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04T07:14:41+02:00",
+  "lastUpdated": "2026-08-05T07:14:28+02:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -9843,48 +9843,6 @@
         }
       ],
       "sistEndret": "04.11.2025 14:53:08"
-    },
-    {
-      "organisasjonsnavn": "Panorama Eiendomsmegling AS",
-      "innsender": "Broker AS - support@broker.no",
-      "roller": [
-        {
-          "rolle": "Megler"
-        }
-      ],
-      "mottaksliste": [
-        {
-          "meldingstype": "SignedMortgageDeed"
-        },
-        {
-          "meldingstype": "IntensjonFraBank"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "SignedMortgageDeedPdf"
-        }
-      ],
-      "organisasjonsnummer": "990329923",
-      "sendeliste": [
-        {
-          "meldingstype": "SignedMortgageDeedProcessed"
-        },
-        {
-          "meldingstype": "IntensjonssvarFraMegler"
-        },
-        {
-          "meldingstype": "Intensjonsendring"
-        },
-        {
-          "meldingstype": "GjennomfoertEtinglysing"
-        },
-        {
-          "meldingstype": "OppnaaddPrioritetOK"
-        }
-      ],
-      "sistEndret": "04.11.2025 13:32:11"
     },
     {
       "organisasjonsnavn": "Sem & Johnsen Oppgjør AS",
