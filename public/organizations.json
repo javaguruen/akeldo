@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T06:25:16+02:00",
+  "lastUpdated": "2026-08-08T05:24:48+02:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -18465,6 +18465,51 @@
         }
       ],
       "sistEndret": "16.12.2025 08:12:44"
+    },
+    {
+      "organisasjonsnavn": "AKSEPT EIENDOMSMEGLING AS",
+      "innsender": "Broker AS- support@broker.no",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
+        }
+      ],
+      "organisasjonsnummer": "937428332",
+      "sendeliste": [
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "AvbruttSamhandling"
+        },
+        {
+          "meldingstype": "GjennomfoertEtinglysing"
+        },
+        {
+          "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        }
+      ],
+      "sistEndret": "07.08.2026 08:16:24"
     },
     {
       "organisasjonsnavn": "MAZARS LEGAL ADVOKATER AS",
