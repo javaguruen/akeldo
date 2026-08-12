@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T05:43:19+02:00",
+  "lastUpdated": "2026-08-12T06:07:35+02:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -5982,6 +5982,45 @@
         }
       ],
       "sistEndret": "02.07.2026 08:27:08"
+    },
+    {
+      "organisasjonsnavn": "ADVOKATFIRMAET MSC AS",
+      "innsender": "Propware AS - post@propware.no",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        }
+      ],
+      "organisasjonsnummer": "935097886",
+      "sendeliste": [
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "GjennomfoertEtinglysing"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        }
+      ],
+      "sistEndret": "11.08.2026 15:08:32"
     },
     {
       "organisasjonsnavn": "ABBL Eiendomsmegling AS",
