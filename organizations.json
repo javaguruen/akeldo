@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T05:02:06+02:00",
+  "lastUpdated": "2026-08-25T04:57:36+02:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -8943,6 +8943,42 @@
         }
       ],
       "sistEndret": "26.06.2026 14:44:18"
+    },
+    {
+      "organisasjonsnavn": "SUNNHORDLAND EIENDOMSMEGLING AS",
+      "innsender": "Ambita AS (support@ambita.com)",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
+        }
+      ],
+      "organisasjonsnummer": "937722869",
+      "sendeliste": [
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        }
+      ],
+      "sistEndret": "24.08.2026 13:34:49"
     },
     {
       "organisasjonsnavn": "Orkla Eiendomsmegling AS",
