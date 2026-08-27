@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T05:03:43+02:00",
+  "lastUpdated": "2026-08-27T14:22:58+02:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -24575,6 +24575,42 @@
       "sistEndret": "03.08.2026 14:32:14"
     },
     {
+      "organisasjonsnavn": "CRETO NÆRINGSMEGLING AS",
+      "innsender": "Ambita AS (support@ambita.com)",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
+        }
+      ],
+      "organisasjonsnummer": "977089085",
+      "sendeliste": [
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        }
+      ],
+      "sistEndret": "27.08.2026 08:24:47"
+    },
+    {
       "organisasjonsnavn": "HAUGESUND BOLIG OG PROSJEKTMEGLING AS",
       "innsender": "support@ambita.com",
       "roller": [
@@ -27585,6 +27621,45 @@
         }
       ],
       "sistEndret": "23.06.2026 08:40:36"
+    },
+    {
+      "organisasjonsnavn": "ADVOKATFIRMAET ØSTGÅRD AS",
+      "innsender": "Propware AS - e-post: post@propware.no",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        }
+      ],
+      "organisasjonsnummer": "837786622",
+      "sendeliste": [
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "GjennomfoertEtinglysing"
+        }
+      ],
+      "sistEndret": "26.08.2026 14:56:40"
     }
   ]
 }
