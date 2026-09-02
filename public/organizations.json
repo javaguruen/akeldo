@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T09:20:09+02:00",
+  "lastUpdated": "2026-09-02T08:50:40+02:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -23309,6 +23309,45 @@
       "sistEndret": "28.07.2026 07:48:08"
     },
     {
+      "organisasjonsnavn": "ADVOKAT HÅKON OMDAL",
+      "innsender": "Propware AS og e-post post@propware.no",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        }
+      ],
+      "organisasjonsnummer": "916487703",
+      "sendeliste": [
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "GjennomfoertEtinglysing"
+        }
+      ],
+      "sistEndret": "01.09.2026 13:57:18"
+    },
+    {
       "organisasjonsnavn": "ADNOR ADVOKAT AS",
       "innsender": "Propware AS - post@propware.no",
       "roller": [
@@ -23667,6 +23706,45 @@
         }
       ],
       "sistEndret": "13.03.2026 08:28:30"
+    },
+    {
+      "organisasjonsnavn": "ADVOKAT RICHARD LIPPENS",
+      "innsender": "Propware AS - e-post post@propware.no",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        }
+      ],
+      "organisasjonsnummer": "997716353",
+      "sendeliste": [
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "GjennomfoertEtinglysing"
+        }
+      ],
+      "sistEndret": "01.09.2026 13:53:37"
     },
     {
       "organisasjonsnavn": "MEGLEREN FOR NYE BOLIGER AS",
