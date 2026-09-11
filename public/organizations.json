@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T09:02:38+02:00",
+  "lastUpdated": "2026-09-11T09:02:01+02:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -8960,10 +8960,10 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "SignedMortgageDeedProcessed"
+          "meldingstype": "SignedMortgageDeed"
         },
         {
-          "meldingstype": "SignedMortgageDeed"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "937722869",
@@ -8978,7 +8978,7 @@
           "meldingstype": "SignedMortgageDeedProcessed"
         }
       ],
-      "sistEndret": "24.08.2026 13:34:49"
+      "sistEndret": "11.09.2026 07:57:08"
     },
     {
       "organisasjonsnavn": "Orkla Eiendomsmegling AS",
