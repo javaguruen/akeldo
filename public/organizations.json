@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T09:02:01+02:00",
+  "lastUpdated": "2026-09-12T08:54:28+02:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -792,6 +792,45 @@
         }
       ],
       "sistEndret": "13.03.2026 08:37:21"
+    },
+    {
+      "organisasjonsnavn": "ADVOKAT INGRID HØYTE AS",
+      "innsender": "Propware AS - e-post post@propware.no",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        }
+      ],
+      "organisasjonsnummer": "931194097",
+      "sendeliste": [
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "GjennomfoertEtinglysing"
+        }
+      ],
+      "sistEndret": "11.09.2026 09:06:27"
     },
     {
       "organisasjonsnavn": "Hjem Eiendomsmegling AS",
@@ -5625,6 +5664,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "997795075",
@@ -5639,7 +5681,7 @@
           "meldingstype": "Intensjonsendring"
         }
       ],
-      "sistEndret": "21.04.2026 07:55:15"
+      "sistEndret": "11.09.2026 15:19:48"
     },
     {
       "organisasjonsnavn": "Rogaland Eiendomsmegling AS",
@@ -21756,6 +21798,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "968757954",
@@ -21770,7 +21815,7 @@
           "meldingstype": "Intensjonsendring"
         }
       ],
-      "sistEndret": "09.04.2026 07:43:57"
+      "sistEndret": "11.09.2026 15:17:48"
     },
     {
       "organisasjonsnavn": "ADVOKATFIRMAET NICOLAISEN ANS",
@@ -21944,16 +21989,16 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeed"
-        },
-        {
           "meldingstype": "IntensjonFraBank"
         },
         {
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "SignedMortgageDeedProcessed"
+          "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "916650051",
@@ -21968,7 +22013,7 @@
           "meldingstype": "Intensjonsendring"
         }
       ],
-      "sistEndret": "29.06.2026 09:02:24"
+      "sistEndret": "11.09.2026 15:15:53"
     },
     {
       "organisasjonsnavn": "BANK NORWEGIAN, EN FILIAL AV NOBA BANK GROUP AB (PUBL) NUF",
@@ -21987,6 +22032,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "916573154",
@@ -22001,7 +22049,7 @@
           "meldingstype": "Intensjonsendring"
         }
       ],
-      "sistEndret": "17.03.2026 14:19:02"
+      "sistEndret": "11.09.2026 15:20:22"
     },
     {
       "organisasjonsnavn": "FRONTLINE FOLLO AS",
@@ -23184,6 +23232,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "996316777",
@@ -23198,7 +23249,7 @@
           "meldingstype": "Intensjonsendring"
         }
       ],
-      "sistEndret": "15.04.2026 13:57:12"
+      "sistEndret": "11.09.2026 15:18:46"
     },
     {
       "organisasjonsnavn": "HALDEN EIENDOMSMEGLING AS",
@@ -23217,6 +23268,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "937554311",
@@ -23231,7 +23285,7 @@
           "meldingstype": "Intensjonsendring"
         }
       ],
-      "sistEndret": "24.04.2026 15:44:05"
+      "sistEndret": "11.09.2026 15:19:19"
     },
     {
       "organisasjonsnavn": "EIENDOMSSENTERET AS",
