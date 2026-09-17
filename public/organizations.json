@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T09:17:28+02:00",
+  "lastUpdated": "2026-09-17T09:12:57+02:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -969,13 +969,13 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "893527702",
       "sendeliste": [
-        {
-          "meldingstype": "IntensjonssvarFraMegler"
-        },
         {
           "meldingstype": "Intensjonsendring"
         },
@@ -986,13 +986,22 @@
           "meldingstype": "SignedMortgageDeedProcessed"
         },
         {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
           "meldingstype": "GjennomfoertEtinglysing"
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "29.06.2026 13:59:17"
+      "sistEndret": "17.09.2026 08:32:43"
     },
     {
       "organisasjonsnavn": "Salten Eiendomsmegling AS",
@@ -5243,9 +5252,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -5253,6 +5259,12 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "817509282",
@@ -5271,9 +5283,15 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "04.11.2025 13:40:07"
+      "sistEndret": "17.09.2026 08:30:54"
     },
     {
       "organisasjonsnavn": "Benum & Johansen AS",
@@ -6354,6 +6372,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "912021327",
@@ -6372,9 +6393,15 @@
         },
         {
           "meldingstype": "GjennomfoertEtinglysing"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "04.11.2025 13:33:04"
+      "sistEndret": "17.09.2026 08:48:49"
     },
     {
       "organisasjonsnavn": "Garanti Eiendomsmegling Haugesund AS",
@@ -9726,6 +9753,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "888622152",
@@ -9744,9 +9774,15 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "04.11.2025 13:49:05"
+      "sistEndret": "17.09.2026 08:31:42"
     },
     {
       "organisasjonsnavn": "Fremtiden Eiendomsmegling AS",
