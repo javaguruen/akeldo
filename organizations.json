@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T09:12:57+02:00",
+  "lastUpdated": "2026-09-18T09:06:17+02:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -1539,6 +1539,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "914983401",
@@ -1557,9 +1560,15 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "04.11.2025 13:46:13"
+      "sistEndret": "17.09.2026 09:53:29"
     },
     {
       "organisasjonsnavn": "Schala & Partners avd Bjørvika Gamle Oslo AS",
@@ -1581,6 +1590,9 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "918716254",
@@ -1599,9 +1611,15 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "04.11.2025 13:45:53"
+      "sistEndret": "17.09.2026 10:12:10"
     },
     {
       "organisasjonsnavn": "Follo Eiendomsmegling AS",
@@ -1659,6 +1677,9 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "987648287",
@@ -1677,9 +1698,15 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "04.11.2025 13:09:50"
+      "sistEndret": "17.09.2026 10:39:16"
     },
     {
       "organisasjonsnavn": "SØRLANDSMEGLEREN SÆDBERG OG LIAN AS",
@@ -1820,9 +1847,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeed"
-        },
-        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -1830,6 +1854,12 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "993909262",
@@ -1848,9 +1878,15 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "04.11.2025 12:54:38"
+      "sistEndret": "17.09.2026 10:43:18"
     },
     {
       "organisasjonsnavn": "WANGENSTEN & PARTNERS AS",
@@ -2112,6 +2148,9 @@
         },
         {
           "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "913019695",
@@ -2130,9 +2169,15 @@
         },
         {
           "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "04.11.2025 13:50:51"
+      "sistEndret": "17.09.2026 09:50:13"
     },
     {
       "organisasjonsnavn": "BN BANK ASA",
@@ -2346,6 +2391,9 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "915624251",
@@ -2364,9 +2412,15 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "04.11.2025 13:57:08"
+      "sistEndret": "17.09.2026 09:54:24"
     },
     {
       "organisasjonsnavn": "Komplett Eiendomsmegling AS",
@@ -2883,6 +2937,9 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "918053603",
@@ -2901,9 +2958,15 @@
         },
         {
           "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
-      "sistEndret": "04.11.2025 13:55:43"
+      "sistEndret": "17.09.2026 10:11:37"
     },
     {
       "organisasjonsnavn": "PREMIÈRE EIENDOMSMEGLING AS",
@@ -3303,6 +3366,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "914888026",
@@ -3321,9 +3387,15 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "04.11.2025 13:22:26"
+      "sistEndret": "17.09.2026 09:52:49"
     },
     {
       "organisasjonsnavn": "MELHUS SPAREBANK",
@@ -5220,6 +5292,9 @@
         },
         {
           "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "922936382",
@@ -5238,9 +5313,15 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "04.11.2025 13:31:14"
+      "sistEndret": "17.09.2026 10:12:53"
     },
     {
       "organisasjonsnavn": "Privatmegleren Nyeboliger AS",
@@ -5538,6 +5619,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "979915772",
@@ -5556,9 +5640,15 @@
         },
         {
           "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "04.11.2025 13:07:17"
+      "sistEndret": "17.09.2026 10:36:10"
     },
     {
       "organisasjonsnavn": "Landkreditt Bank AS",
@@ -5904,6 +5994,9 @@
         },
         {
           "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "937185677",
@@ -5925,9 +6018,15 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "29.06.2026 11:03:55"
+      "sistEndret": "17.09.2026 10:34:05"
     },
     {
       "organisasjonsnavn": "Gabrielsen & Partners AS",
@@ -5985,6 +6084,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "912641066",
@@ -6003,9 +6105,15 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "04.11.2025 13:16:53"
+      "sistEndret": "17.09.2026 09:28:51"
     },
     {
       "organisasjonsnavn": "AKTIV KARMØY AS",
@@ -6822,13 +6930,13 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "923888306",
       "sendeliste": [
-        {
-          "meldingstype": "SignedMortgageDeedProcessed"
-        },
         {
           "meldingstype": "IntensjonssvarFraMegler"
         },
@@ -6843,9 +6951,18 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "04.11.2025 13:14:51"
+      "sistEndret": "17.09.2026 10:13:26"
     },
     {
       "organisasjonsnavn": "TENDEN ADVOKATFIRMA ANS",
@@ -7104,6 +7221,9 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "917831556",
@@ -7122,9 +7242,15 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "04.11.2025 13:56:51"
+      "sistEndret": "17.09.2026 10:10:05"
     },
     {
       "organisasjonsnavn": "ADVOKAT VEGARD NATAAS",
@@ -8040,6 +8166,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "934089812",
@@ -8061,9 +8190,15 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "27.05.2026 08:31:37"
+      "sistEndret": "17.09.2026 10:28:16"
     },
     {
       "organisasjonsnavn": "WEBMEGLING",
@@ -8811,6 +8946,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "936721788",
@@ -8832,9 +8970,15 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "05.06.2026 09:59:43"
+      "sistEndret": "17.09.2026 10:33:10"
     },
     {
       "organisasjonsnavn": "Bankenes Boligmegler AS",
@@ -8988,6 +9132,9 @@
         },
         {
           "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "936324029",
@@ -9009,9 +9156,15 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "26.06.2026 14:44:18"
+      "sistEndret": "17.09.2026 10:32:27"
     },
     {
       "organisasjonsnavn": "SUNNHORDLAND EIENDOMSMEGLING AS",
@@ -9186,6 +9339,42 @@
         }
       ],
       "sistEndret": "13.11.2025 08:34:35"
+    },
+    {
+      "organisasjonsnavn": "ADVOKAT BJØRNAR MØLLER",
+      "innsender": "Ambita AS (support@ambita.com)",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
+        }
+      ],
+      "organisasjonsnummer": "927637642",
+      "sendeliste": [
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        }
+      ],
+      "sistEndret": "17.09.2026 10:53:04"
     },
     {
       "organisasjonsnavn": "OBOS Eiendomsmeglere AS",
@@ -9840,13 +10029,13 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "914594863",
       "sendeliste": [
-        {
-          "meldingstype": "GjennomfoertEtinglysing"
-        },
         {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
@@ -9857,10 +10046,19 @@
           "meldingstype": "Intensjonsendring"
         },
         {
+          "meldingstype": "GjennomfoertEtinglysing"
+        },
+        {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "04.11.2025 12:48:29"
+      "sistEndret": "17.09.2026 09:51:34"
     },
     {
       "organisasjonsnavn": "Fram Eiendomsmegling AS",
@@ -9882,6 +10080,9 @@
         },
         {
           "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "991458409",
@@ -9900,9 +10101,15 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "04.11.2025 13:06:59"
+      "sistEndret": "17.09.2026 10:41:06"
     },
     {
       "organisasjonsnavn": "LARVIK EIENDOMSMEGLING AS",
@@ -10134,6 +10341,9 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "996534235",
@@ -10152,9 +10362,15 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "04.11.2025 12:57:30"
+      "sistEndret": "17.09.2026 10:44:01"
     },
     {
       "organisasjonsnavn": "Eiendomsmegleren Din Telemark AS",
@@ -10335,6 +10551,9 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "986956204",
@@ -10353,9 +10572,15 @@
         },
         {
           "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "04.11.2025 13:28:41"
+      "sistEndret": "17.09.2026 10:38:40"
     },
     {
       "organisasjonsnavn": "Dialog Eiendomsmegling AS",
@@ -10377,6 +10602,9 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "937789416",
@@ -10398,9 +10626,15 @@
         },
         {
           "meldingstype": "AvbruttSamhandling"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "13.03.2026 14:14:55"
+      "sistEndret": "17.09.2026 10:35:37"
     },
     {
       "organisasjonsnavn": "Exbo Sørlandet AS",
@@ -10719,6 +10953,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "912302180",
@@ -10737,9 +10974,15 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "04.11.2025 12:59:08"
+      "sistEndret": "17.09.2026 09:28:06"
     },
     {
       "organisasjonsnavn": "KURSIV EIENDOMSMEGLING AS",
@@ -10812,6 +11055,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "985403368",
@@ -10830,9 +11076,15 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "04.11.2025 13:26:57"
+      "sistEndret": "17.09.2026 10:37:15"
     },
     {
       "organisasjonsnavn": "Vestoppgjør AS",
@@ -11004,6 +11256,9 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "992979062",
@@ -11022,9 +11277,15 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "04.11.2025 13:40:46"
+      "sistEndret": "17.09.2026 10:42:03"
     },
     {
       "organisasjonsnavn": "Heimdal Eiendomsmegling AS",
@@ -11072,9 +11333,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeedPdf"
-        },
-        {
           "meldingstype": "SignedMortgageDeed"
         },
         {
@@ -11082,6 +11340,12 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "916959478",
@@ -11100,9 +11364,15 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "04.11.2025 12:52:05"
+      "sistEndret": "17.09.2026 09:55:17"
     },
     {
       "organisasjonsnavn": "Advokatfirmaet Herstad AS",
@@ -11325,6 +11595,9 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "996956512",
@@ -11346,9 +11619,15 @@
         },
         {
           "meldingstype": "AvbruttSamhandling"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "12.03.2026 14:03:58"
+      "sistEndret": "17.09.2026 10:47:05"
     },
     {
       "organisasjonsnavn": "Eiendomsmegleren i Fjellregionen",
@@ -13521,6 +13800,9 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "931000403",
@@ -13539,9 +13821,15 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "04.11.2025 13:16:00"
+      "sistEndret": "17.09.2026 10:25:57"
     },
     {
       "organisasjonsnavn": "SEM & JOHNSEN BOLIGER AS",
@@ -16134,6 +16422,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "924949449",
@@ -16152,9 +16443,15 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "04.11.2025 13:23:18"
+      "sistEndret": "17.09.2026 10:23:01"
     },
     {
       "organisasjonsnavn": "HAVN EIENDOMSOPPGJØR AS",
@@ -18012,6 +18309,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "936282350",
@@ -18033,9 +18333,15 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "06.05.2026 09:03:36"
+      "sistEndret": "17.09.2026 10:30:07"
     },
     {
       "organisasjonsnavn": "ADVOKATFIRMAET SIRI K. KARLSEN AS",
@@ -18255,6 +18561,9 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "930659096",
@@ -18273,9 +18582,15 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "04.11.2025 13:13:24"
+      "sistEndret": "17.09.2026 10:25:21"
     },
     {
       "organisasjonsnavn": "NORDLANDSMEGLEREN AS",
@@ -18675,6 +18990,9 @@
         },
         {
           "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "937428332",
@@ -18696,9 +19014,15 @@
         },
         {
           "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "07.08.2026 08:16:24"
+      "sistEndret": "17.09.2026 10:34:36"
     },
     {
       "organisasjonsnavn": "MAZARS LEGAL ADVOKATER AS",
@@ -18792,6 +19116,9 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "993473596",
@@ -18810,9 +19137,15 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "04.11.2025 13:54:06"
+      "sistEndret": "17.09.2026 10:42:32"
     },
     {
       "organisasjonsnavn": "VERDI EIENDOMSMEGLING STAVANGER AS",
@@ -18834,6 +19167,9 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "990691304",
@@ -18852,9 +19188,15 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "04.11.2025 13:55:23"
+      "sistEndret": "17.09.2026 10:40:33"
     },
     {
       "organisasjonsnavn": "PROFFMEGLEREN AS",
@@ -19644,6 +19986,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "980872424",
@@ -19662,9 +20007,15 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "04.11.2025 13:22:08"
+      "sistEndret": "17.09.2026 10:36:43"
     },
     {
       "organisasjonsnavn": "ROMERIKE EIENDOMSMEGLING AS",
@@ -20046,6 +20397,9 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "987954337",
@@ -20064,9 +20418,15 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "04.11.2025 13:05:31"
+      "sistEndret": "17.09.2026 10:39:51"
     },
     {
       "organisasjonsnavn": "ÅRDAL BOLIGBYGGELAG",
@@ -21957,6 +22317,9 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "936304206",
@@ -21975,9 +22338,15 @@
         },
         {
           "meldingstype": "GjennomfoertEtinglysing"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "13.03.2026 14:16:40"
+      "sistEndret": "17.09.2026 10:31:53"
     },
     {
       "organisasjonsnavn": "BEKKESTUA ADVOKATKONTOR AS",
@@ -22515,6 +22884,9 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "917705631",
@@ -22536,9 +22908,15 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "04.11.2025 13:10:08"
+      "sistEndret": "17.09.2026 10:09:23"
     },
     {
       "organisasjonsnavn": "PM SANDNES AS",
@@ -22560,13 +22938,13 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "931028219",
       "sendeliste": [
-        {
-          "meldingstype": "Intensjonsendring"
-        },
         {
           "meldingstype": "AvbruttSamhandling"
         },
@@ -22581,9 +22959,18 @@
         },
         {
           "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
         }
       ],
-      "sistEndret": "04.11.2025 13:34:08"
+      "sistEndret": "17.09.2026 10:26:28"
     },
     {
       "organisasjonsnavn": "NORDHORDLAND EIENDOMSMEGLING AS",
@@ -22605,6 +22992,9 @@
         },
         {
           "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "926772694",
@@ -22623,9 +23013,15 @@
         },
         {
           "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "13.03.2026 14:16:25"
+      "sistEndret": "17.09.2026 10:24:11"
     },
     {
       "organisasjonsnavn": "AREALPARTNER NÆRINGSMEGLING AS",
@@ -22722,6 +23118,9 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "932083108",
@@ -22740,9 +23139,15 @@
         },
         {
           "meldingstype": "GjennomfoertEtinglysing"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "13.03.2026 14:16:49"
+      "sistEndret": "17.09.2026 10:27:45"
     },
     {
       "organisasjonsnavn": "NÆRINGSMEGLING VEST AS",
@@ -22764,13 +23169,13 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "925893919",
       "sendeliste": [
-        {
-          "meldingstype": "Intensjonsendring"
-        },
         {
           "meldingstype": "AvbruttSamhandling"
         },
@@ -22782,9 +23187,18 @@
         },
         {
           "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
-      "sistEndret": "13.03.2026 14:15:36"
+      "sistEndret": "17.09.2026 10:23:33"
     },
     {
       "organisasjonsnavn": "ADVOKATFIRMAET ØSTGÅRD DA",
@@ -23474,6 +23888,57 @@
       "sistEndret": "01.09.2026 13:57:18"
     },
     {
+      "organisasjonsnavn": "ÅLHYTTA EIENDOM AS",
+      "innsender": "Broker AS- support@broker.no",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        }
+      ],
+      "organisasjonsnummer": "996837602",
+      "sendeliste": [
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "AvbruttSamhandling"
+        },
+        {
+          "meldingstype": "GjennomfoertEtinglysing"
+        },
+        {
+          "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        }
+      ],
+      "sistEndret": "17.09.2026 11:47:03"
+    },
+    {
       "organisasjonsnavn": "ADNOR ADVOKAT AS",
       "innsender": "Propware AS - post@propware.no",
       "roller": [
@@ -24030,6 +24495,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "934662938",
@@ -24048,9 +24516,15 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "04.11.2025 13:32:29"
+      "sistEndret": "17.09.2026 10:28:52"
     },
     {
       "organisasjonsnavn": "STOKKELAND - ADVOKAT DA",
@@ -24144,6 +24618,9 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "934957687",
@@ -24165,9 +24642,15 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "04.11.2025 13:29:54"
+      "sistEndret": "17.09.2026 10:29:33"
     },
     {
       "organisasjonsnavn": "FRONTLINE VESTBY EIENDOMSMEGLING AS",
@@ -24432,6 +24915,9 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "927103796",
@@ -24453,9 +24939,15 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "04.11.2025 13:08:57"
+      "sistEndret": "17.09.2026 10:24:48"
     },
     {
       "organisasjonsnavn": "MEGLERHUSET ROMERIKE AS",
@@ -24513,6 +25005,9 @@
         },
         {
           "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "931509268",
@@ -24531,9 +25026,15 @@
         },
         {
           "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "13.03.2026 14:16:05"
+      "sistEndret": "17.09.2026 10:26:58"
     },
     {
       "organisasjonsnavn": "ADVOKATFIRMAET BERGE AS",
@@ -24753,6 +25254,9 @@
         },
         {
           "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "937696779",
@@ -24774,9 +25278,15 @@
         },
         {
           "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "03.08.2026 14:32:14"
+      "sistEndret": "17.09.2026 10:35:05"
     },
     {
       "organisasjonsnavn": "CRETO NÆRINGSMEGLING AS",
