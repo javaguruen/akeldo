@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-25T09:09:51+02:00",
+  "lastUpdated": "2026-09-26T09:06:12+02:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -19437,6 +19437,57 @@
         }
       ],
       "sistEndret": "12.03.2026 14:58:28"
+    },
+    {
+      "organisasjonsnavn": "STENDER OPPGJØR OSLO AS",
+      "innsender": "Broker AS - support@broker.no",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
+        }
+      ],
+      "organisasjonsnummer": "837749352",
+      "sendeliste": [
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "AvbruttSamhandling"
+        },
+        {
+          "meldingstype": "GjennomfoertEtinglysing"
+        },
+        {
+          "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        }
+      ],
+      "sistEndret": "25.09.2026 09:11:55"
     },
     {
       "organisasjonsnavn": "BERGEN VEST EIENDOMSMEGLING AS",
