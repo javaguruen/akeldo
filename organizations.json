@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T10:36:31+02:00",
+  "lastUpdated": "2026-10-07T10:12:07+02:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -1002,6 +1002,45 @@
         }
       ],
       "sistEndret": "17.09.2026 08:32:43"
+    },
+    {
+      "organisasjonsnavn": "ADVOKAT NOREN",
+      "innsender": "Propware AS - post@propware.no",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        }
+      ],
+      "organisasjonsnummer": "929205596",
+      "sendeliste": [
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "GjennomfoertEtinglysing"
+        }
+      ],
+      "sistEndret": "06.10.2026 13:02:00"
     },
     {
       "organisasjonsnavn": "Salten Eiendomsmegling AS",
