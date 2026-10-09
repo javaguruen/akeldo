@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T10:27:55+02:00",
+  "lastUpdated": "2026-10-09T10:31:39+02:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -27137,8 +27137,8 @@
       "sistEndret": "06.02.2026 14:49:04"
     },
     {
-      "organisasjonsnavn": "PROAKTIV PROPERTIES AS",
-      "innsender": "support@ambita.com",
+      "organisasjonsnavn": "BYGDØY & FROGNER AS",
+      "innsender": "Broker AS",
       "roller": [
         {
           "rolle": "Megler"
@@ -27156,21 +27156,39 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "917473714",
       "sendeliste": [
         {
-          "meldingstype": "IntensjonssvarFraMegler"
-        },
-        {
           "meldingstype": "Intensjonsendring"
         },
         {
           "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "AvbruttSamhandling"
+        },
+        {
+          "meldingstype": "GjennomfoertEtinglysing"
+        },
+        {
+          "meldingstype": "OppnaaddPrioritetOK"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "13.03.2026 08:18:58"
+      "sistEndret": "09.10.2026 10:05:03"
     },
     {
       "organisasjonsnavn": "LØRENSKOG EIENDOMSMEGLING AS",
