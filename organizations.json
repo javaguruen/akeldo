@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T08:57:01+01:00",
+  "lastUpdated": "2026-10-29T09:04:44+01:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -6675,7 +6675,7 @@
     },
     {
       "organisasjonsnavn": "FOSS & CO VESTBY SON EIENDOMSMEGLING AS",
-      "innsender": "Broker AS - support@broker.no",
+      "innsender": "Ambita AS - support@ambita.com",
       "roller": [
         {
           "rolle": "Megler"
@@ -6687,9 +6687,6 @@
         },
         {
           "meldingstype": "SignedMortgageDeed"
-        },
-        {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
@@ -6707,22 +6704,10 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "AvbruttSamhandling"
-        },
-        {
           "meldingstype": "SignedMortgageDeedProcessed"
-        },
-        {
-          "meldingstype": "GjennomfoertEtinglysing"
-        },
-        {
-          "meldingstype": "KjoepekontraktSvarFraMegler"
-        },
-        {
-          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "13.03.2026 14:15:09"
+      "sistEndret": "28.10.2026 12:46:28"
     },
     {
       "organisasjonsnavn": "FOSS & CO ØSTFOLD AS - EIENDOMSMEGLING",
