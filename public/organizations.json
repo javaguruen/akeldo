@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-02T09:55:52+01:00",
+  "lastUpdated": "2026-11-03T10:03:24+01:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -11916,10 +11916,19 @@
         },
         {
           "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "931262041",
       "sendeliste": [
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
         {
           "meldingstype": "SignedMortgageDeedProcessed"
         },
@@ -11930,7 +11939,7 @@
           "meldingstype": "Intensjonsendring"
         }
       ],
-      "sistEndret": "12.03.2026 15:03:49"
+      "sistEndret": "02.11.2026 10:17:25"
     },
     {
       "organisasjonsnavn": "EIENDOMSMEGLER 1 FJELLMEGLEREN AS",
