@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T09:57:14+01:00",
+  "lastUpdated": "2026-11-07T09:23:37+01:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -13254,6 +13254,42 @@
         }
       ],
       "sistEndret": "03.09.2026 10:36:40"
+    },
+    {
+      "organisasjonsnavn": "NORDIA LAW ADVOKATFIRMA AS",
+      "innsender": "Ambita AS - support@ambita.com",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
+        }
+      ],
+      "organisasjonsnummer": "919371684",
+      "sendeliste": [
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        }
+      ],
+      "sistEndret": "06.11.2026 15:28:10"
     },
     {
       "organisasjonsnavn": "ADVANTI & PARTNERS ALTA AS",
