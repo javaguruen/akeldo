@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-10T10:19:36+01:00",
+  "lastUpdated": "2026-11-11T09:53:49+01:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -1185,6 +1185,42 @@
         }
       ],
       "sistEndret": "12.03.2026 14:34:44"
+    },
+    {
+      "organisasjonsnavn": "DJERV ADVOKATFIRMA AS",
+      "innsender": "Ambita AS (support@ambita.com)",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
+        }
+      ],
+      "organisasjonsnummer": "921172524",
+      "sendeliste": [
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        }
+      ],
+      "sistEndret": "10.11.2026 12:04:57"
     },
     {
       "organisasjonsnavn": "HANDELSBANKEN",
@@ -19535,7 +19571,7 @@
           "meldingstype": "KjoepekontraktforespoerselFraBank"
         },
         {
-          "meldingstype": "SignedMortgageDeed"
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "837749352",
@@ -19565,7 +19601,7 @@
           "meldingstype": "AvbruttSamhandling"
         }
       ],
-      "sistEndret": "25.09.2026 09:11:55"
+      "sistEndret": "10.11.2026 12:36:11"
     },
     {
       "organisasjonsnavn": "BERGEN VEST EIENDOMSMEGLING AS",
