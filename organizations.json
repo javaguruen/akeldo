@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-18T10:46:32+01:00",
+  "lastUpdated": "2026-11-19T10:55:37+01:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -3002,9 +3002,6 @@
       ],
       "mottaksliste": [
         {
-          "meldingstype": "SignedMortgageDeed"
-        },
-        {
           "meldingstype": "IntensjonFraBank"
         },
         {
@@ -3015,13 +3012,13 @@
         },
         {
           "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "918053603",
       "sendeliste": [
-        {
-          "meldingstype": "IntensjonssvarFraMegler"
-        },
         {
           "meldingstype": "Intensjonsendring"
         },
@@ -3038,10 +3035,13 @@
           "meldingstype": "KjoepekontraktSvarFraMegler"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "KjoepekontraktEndringFraMegler"
+        },
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
         }
       ],
-      "sistEndret": "17.09.2026 10:11:37"
+      "sistEndret": "19.11.2026 08:34:17"
     },
     {
       "organisasjonsnavn": "PREMIÈRE EIENDOMSMEGLING AS",
@@ -23360,10 +23360,10 @@
           "meldingstype": "Intensjonsendring"
         },
         {
-          "meldingstype": "KjoepekontraktforespoerselFraBank"
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "17.09.2026 10:23:33"
+      "sistEndret": "19.11.2026 08:33:52"
     },
     {
       "organisasjonsnavn": "ADVOKATFIRMAET ØSTGÅRD DA",
