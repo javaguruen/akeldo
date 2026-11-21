@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-20T10:43:23+01:00",
+  "lastUpdated": "2026-11-21T10:15:08+01:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -852,6 +852,9 @@
         },
         {
           "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "KjoepekontraktforespoerselFraBank"
         }
       ],
       "organisasjonsnummer": "990860467",
@@ -864,9 +867,15 @@
         },
         {
           "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "KjoepekontraktSvarFraMegler"
+        },
+        {
+          "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "12.03.2026 15:18:15"
+      "sistEndret": "20.11.2026 10:51:26"
     },
     {
       "organisasjonsnavn": "MEGLERHUSET RELE KARMØY AS",
@@ -6264,6 +6273,42 @@
         }
       ],
       "sistEndret": "11.08.2026 15:08:32"
+    },
+    {
+      "organisasjonsnavn": "ADVOKATENE HOVDE MNA AS",
+      "innsender": "Ambita AS (support@ambita.com)",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
+        }
+      ],
+      "organisasjonsnummer": "991556664",
+      "sendeliste": [
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        },
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        }
+      ],
+      "sistEndret": "20.11.2026 14:54:41"
     },
     {
       "organisasjonsnavn": "ABBL Eiendomsmegling AS",
