@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-23T11:21:01+01:00",
+  "lastUpdated": "2026-11-24T13:02:46+01:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -19617,6 +19617,9 @@
         },
         {
           "meldingstype": "SignedMortgageDeedPdf"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
         }
       ],
       "organisasjonsnummer": "837749352",
@@ -19646,7 +19649,7 @@
           "meldingstype": "AvbruttSamhandling"
         }
       ],
-      "sistEndret": "10.11.2026 12:36:11"
+      "sistEndret": "24.11.2026 07:49:38"
     },
     {
       "organisasjonsnavn": "BERGEN VEST EIENDOMSMEGLING AS",
@@ -24117,6 +24120,9 @@
         },
         {
           "meldingstype": "KjoepekontraktforespoerselFraBank"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
         }
       ],
       "organisasjonsnummer": "996837602",
@@ -24146,7 +24152,7 @@
           "meldingstype": "KjoepekontraktEndringFraMegler"
         }
       ],
-      "sistEndret": "17.09.2026 11:47:03"
+      "sistEndret": "24.11.2026 07:58:48"
     },
     {
       "organisasjonsnavn": "MEGLERHUSET ØVRE ROMERIKE AS",
