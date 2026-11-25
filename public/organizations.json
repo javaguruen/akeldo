@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T13:02:46+01:00",
+  "lastUpdated": "2026-11-25T11:54:22+01:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -25611,6 +25611,42 @@
         }
       ],
       "sistEndret": "27.08.2026 08:24:47"
+    },
+    {
+      "organisasjonsnavn": "LHU EIENDOMSMEGLING AS",
+      "innsender": "Ambita",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
+        }
+      ],
+      "organisasjonsnummer": "938835276",
+      "sendeliste": [
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        }
+      ],
+      "sistEndret": "25.11.2026 10:13:01"
     },
     {
       "organisasjonsnavn": "HAUGESUND BOLIG OG PROSJEKTMEGLING AS",
