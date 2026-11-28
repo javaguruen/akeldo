@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-27T11:33:34+01:00",
+  "lastUpdated": "2026-11-28T10:50:16+01:00",
   "akeldo": [
     {
       "organisasjonsnavn": "ETNE SPAREBANK",
@@ -1323,6 +1323,42 @@
         }
       ],
       "sistEndret": "13.03.2026 08:12:25"
+    },
+    {
+      "organisasjonsnavn": "ATTENTUS EIENDOMSMEGLING AS",
+      "innsender": "Alice & Bob AS - post@alice-bob.no",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
+        }
+      ],
+      "organisasjonsnummer": "938443548",
+      "sendeliste": [
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        }
+      ],
+      "sistEndret": "27.11.2026 15:55:31"
     },
     {
       "organisasjonsnavn": "Proffoppgjør AS",
@@ -19686,6 +19722,42 @@
         }
       ],
       "sistEndret": "12.03.2026 14:56:56"
+    },
+    {
+      "organisasjonsnavn": "ADVOKATFIRMAET ARNTZEN AS",
+      "innsender": "Ambita AS - support@ambita.com",
+      "roller": [
+        {
+          "rolle": "Megler"
+        }
+      ],
+      "mottaksliste": [
+        {
+          "meldingstype": "SignedMortgageDeed"
+        },
+        {
+          "meldingstype": "IntensjonFraBank"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedPdf"
+        }
+      ],
+      "organisasjonsnummer": "982409705",
+      "sendeliste": [
+        {
+          "meldingstype": "IntensjonssvarFraMegler"
+        },
+        {
+          "meldingstype": "Intensjonsendring"
+        },
+        {
+          "meldingstype": "SignedMortgageDeedProcessed"
+        }
+      ],
+      "sistEndret": "27.11.2026 12:15:04"
     },
     {
       "organisasjonsnavn": "GABRIELSEN & PARTNERS LØKKA AS",
